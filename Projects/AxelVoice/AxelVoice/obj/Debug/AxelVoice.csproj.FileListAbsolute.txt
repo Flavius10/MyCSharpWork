@@ -1,0 +1,10 @@
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\bin\Debug\AxelVoice.exe.config
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\bin\Debug\AxelVoice.exe
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\bin\Debug\AxelVoice.pdb
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\obj\Debug\AxelVoice.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\obj\Debug\AxelVoice.AxelVoice.resources
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\obj\Debug\AxelVoice.Properties.Resources.resources
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\obj\Debug\AxelVoice.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\obj\Debug\AxelVoice.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\obj\Debug\AxelVoice.exe
+C:\Folders\Info\C#\Projects\AxelVoice\AxelVoice\obj\Debug\AxelVoice.pdb

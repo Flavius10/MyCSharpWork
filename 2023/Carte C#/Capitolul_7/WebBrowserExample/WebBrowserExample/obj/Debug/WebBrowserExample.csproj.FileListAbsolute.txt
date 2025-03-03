@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\bin\Debug\WebBrowserExample.exe.config
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\bin\Debug\WebBrowserExample.exe
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\bin\Debug\WebBrowserExample.pdb
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.exe
+C:\Folders\Info\C#\Capitolul_7\WebBrowserExample\WebBrowserExample\obj\Debug\WebBrowserExample.pdb

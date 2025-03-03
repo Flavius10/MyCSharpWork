@@ -1,0 +1,15 @@
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\bin\Debug\Puzzle_Nume_Prenume.exe.config
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\bin\Debug\Puzzle_Nume_Prenume.exe
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\bin\Debug\Puzzle_Nume_Prenume.pdb
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.FormLogare.resources
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.FormJucator.resources
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.exe
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.pdb
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.FormAdminisrator.resources
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.FormJoc4.resources
+C:\Folders\Info\C#\Proiect_2013\Puzzle_Nume_Prenume\Puzzle_Nume_Prenume\obj\Debug\Puzzle_Nume_Prenume.Puzzle9.resources

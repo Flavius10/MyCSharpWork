@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe.config
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.pdb
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Form1.resources
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.exe
+C:\Folders\Info\C#\Proiecte personale\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.pdb

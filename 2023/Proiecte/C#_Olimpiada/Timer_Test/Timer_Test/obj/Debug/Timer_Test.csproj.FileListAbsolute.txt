@@ -1,0 +1,12 @@
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\bin\Debug\Timer_Test.exe.config
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\bin\Debug\Timer_Test.exe
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\bin\Debug\Timer_Test.pdb
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\obj\Debug\Timer_Test.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\obj\Debug\Timer_Test.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\obj\Debug\Timer_Test.Form1.resources
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\obj\Debug\Timer_Test.Iesire.resources
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\obj\Debug\Timer_Test.Properties.Resources.resources
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\obj\Debug\Timer_Test.csproj.GenerateResource.cache
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\obj\Debug\Timer_Test.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\obj\Debug\Timer_Test.exe
+C:\Folders\Info\C#\C#_Olimpiada\Timer_Test\Timer_Test\obj\Debug\Timer_Test.pdb

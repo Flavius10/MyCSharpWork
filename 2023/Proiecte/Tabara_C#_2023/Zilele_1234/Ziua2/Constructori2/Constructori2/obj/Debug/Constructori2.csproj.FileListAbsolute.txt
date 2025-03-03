@@ -1,0 +1,16 @@
+C:\Users\Profesor\Desktop\tabara\Ziua2\Constructori2\Constructori2\bin\Debug\Constructori2.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua2\Constructori2\Constructori2\bin\Debug\Constructori2.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\Constructori2\Constructori2\bin\Debug\Constructori2.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.pdb
+C:\Folders\Info\C#\Tabara_C#_2023\Zilele_1234\Ziua2\Constructori2\Constructori2\bin\Debug\Constructori2.exe.config
+C:\Folders\Info\C#\Tabara_C#_2023\Zilele_1234\Ziua2\Constructori2\Constructori2\bin\Debug\Constructori2.exe
+C:\Folders\Info\C#\Tabara_C#_2023\Zilele_1234\Ziua2\Constructori2\Constructori2\bin\Debug\Constructori2.pdb
+C:\Folders\Info\C#\Tabara_C#_2023\Zilele_1234\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Tabara_C#_2023\Zilele_1234\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Tabara_C#_2023\Zilele_1234\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Tabara_C#_2023\Zilele_1234\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.exe
+C:\Folders\Info\C#\Tabara_C#_2023\Zilele_1234\Ziua2\Constructori2\Constructori2\obj\Debug\Constructori2.pdb

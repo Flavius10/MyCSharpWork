@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\obj\Debug\ClickEvent.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\obj\Debug\ClickEvent.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\obj\Debug\ClickEvent.FormaMea.resources
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\obj\Debug\ClickEvent.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\obj\Debug\ClickEvent.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\obj\Debug\ClickEvent.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\bin\Debug\ClickEvent.exe.config
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\bin\Debug\ClickEvent.exe
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\bin\Debug\ClickEvent.pdb
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\obj\Debug\ClickEvent.exe
+C:\Folders\Info\C#\Capitolul_6\ClickEvent\ClickEvent\obj\Debug\ClickEvent.pdb

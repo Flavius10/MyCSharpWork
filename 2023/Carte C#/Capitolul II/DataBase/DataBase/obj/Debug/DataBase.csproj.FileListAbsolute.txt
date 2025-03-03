@@ -1,0 +1,10 @@
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\bin\Debug\Scoala.mdf
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\bin\Debug\Scoala_log.ldf
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Folders\Info\C#\Capitolul II\DataBase\DataBase\obj\Debug\DataBase.pdb

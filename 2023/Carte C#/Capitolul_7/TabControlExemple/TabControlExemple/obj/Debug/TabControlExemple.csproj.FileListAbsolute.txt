@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\bin\Debug\TabControlExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\bin\Debug\TabControlExemple.exe
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\bin\Debug\TabControlExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\obj\Debug\TabControlExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\obj\Debug\TabControlExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\obj\Debug\TabControlExemple.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\obj\Debug\TabControlExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\obj\Debug\TabControlExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\obj\Debug\TabControlExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\obj\Debug\TabControlExemple.exe
+C:\Folders\Info\C#\Capitolul_7\TabControlExemple\TabControlExemple\obj\Debug\TabControlExemple.pdb

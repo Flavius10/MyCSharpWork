@@ -1,0 +1,13 @@
+C:\Folders\Info\C#\2024\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\2024\ATM\ATM\obj\Debug\ATM.ATM.resources
+C:\Folders\Info\C#\2024\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Folders\Info\C#\2024\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Folders\Info\C#\2024\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\2024\ATM\ATM\bin\Debug\UsersDataBase.mdf
+C:\Folders\Info\C#\2024\ATM\ATM\bin\Debug\UsersDataBase_log.ldf
+C:\Folders\Info\C#\2024\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Folders\Info\C#\2024\ATM\ATM\bin\Debug\ATM.exe
+C:\Folders\Info\C#\2024\ATM\ATM\bin\Debug\ATM.pdb
+C:\Folders\Info\C#\2024\ATM\ATM\obj\Debug\ATM.PIN.resources
+C:\Folders\Info\C#\2024\ATM\ATM\obj\Debug\ATM.exe
+C:\Folders\Info\C#\2024\ATM\ATM\obj\Debug\ATM.pdb

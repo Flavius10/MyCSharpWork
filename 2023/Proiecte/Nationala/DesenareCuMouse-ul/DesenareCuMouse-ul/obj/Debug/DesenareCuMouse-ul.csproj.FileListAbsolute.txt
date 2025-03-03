@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\bin\Debug\DesenareCuMouse-ul.exe.config
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\bin\Debug\DesenareCuMouse-ul.exe
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\bin\Debug\DesenareCuMouse-ul.pdb
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\obj\Debug\DesenareCuMouse-ul.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\obj\Debug\DesenareCuMouse-ul.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\obj\Debug\DesenareCuMouse_ul.Desenare.resources
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\obj\Debug\DesenareCuMouse_ul.Properties.Resources.resources
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\obj\Debug\DesenareCuMouse-ul.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\obj\Debug\DesenareCuMouse-ul.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\obj\Debug\DesenareCuMouse-ul.exe
+C:\Folders\Info\C#\Nationala\DesenareCuMouse-ul\DesenareCuMouse-ul\obj\Debug\DesenareCuMouse-ul.pdb

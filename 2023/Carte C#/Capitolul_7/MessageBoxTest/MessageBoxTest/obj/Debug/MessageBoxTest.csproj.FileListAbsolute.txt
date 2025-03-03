@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\bin\Debug\MessageBoxTest.exe.config
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\bin\Debug\MessageBoxTest.exe
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\bin\Debug\MessageBoxTest.pdb
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\obj\Debug\MessageBoxTest.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\obj\Debug\MessageBoxTest.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\obj\Debug\MessageBoxTest.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\obj\Debug\MessageBoxTest.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\obj\Debug\MessageBoxTest.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\obj\Debug\MessageBoxTest.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\obj\Debug\MessageBoxTest.exe
+C:\Folders\Info\C#\Capitolul_7\MessageBoxTest\MessageBoxTest\obj\Debug\MessageBoxTest.pdb

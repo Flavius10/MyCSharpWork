@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\bin\Debug\RichTextBoxExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\bin\Debug\RichTextBoxExemple.exe
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\bin\Debug\RichTextBoxExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\obj\Debug\RichTextBoxExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\obj\Debug\RichTextBoxExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\obj\Debug\RichTextBoxExemple.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\obj\Debug\RichTextBoxExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\obj\Debug\RichTextBoxExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\obj\Debug\RichTextBoxExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\obj\Debug\RichTextBoxExemple.exe
+C:\Folders\Info\C#\Capitolul_7\RichTextBoxExemple\RichTextBoxExemple\obj\Debug\RichTextBoxExemple.pdb

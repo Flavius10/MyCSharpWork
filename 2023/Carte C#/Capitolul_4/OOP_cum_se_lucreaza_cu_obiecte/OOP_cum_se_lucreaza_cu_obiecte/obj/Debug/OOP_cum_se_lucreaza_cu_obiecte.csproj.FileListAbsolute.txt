@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_4\OOP_cum_se_lucreaza_cu_obiecte\OOP_cum_se_lucreaza_cu_obiecte\bin\Debug\OOP_cum_se_lucreaza_cu_obiecte.exe.config
+C:\Folders\Info\C#\Capitolul_4\OOP_cum_se_lucreaza_cu_obiecte\OOP_cum_se_lucreaza_cu_obiecte\bin\Debug\OOP_cum_se_lucreaza_cu_obiecte.exe
+C:\Folders\Info\C#\Capitolul_4\OOP_cum_se_lucreaza_cu_obiecte\OOP_cum_se_lucreaza_cu_obiecte\bin\Debug\OOP_cum_se_lucreaza_cu_obiecte.pdb
+C:\Folders\Info\C#\Capitolul_4\OOP_cum_se_lucreaza_cu_obiecte\OOP_cum_se_lucreaza_cu_obiecte\obj\Debug\OOP_cum_se_lucreaza_cu_obiecte.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_4\OOP_cum_se_lucreaza_cu_obiecte\OOP_cum_se_lucreaza_cu_obiecte\obj\Debug\OOP_cum_se_lucreaza_cu_obiecte.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_4\OOP_cum_se_lucreaza_cu_obiecte\OOP_cum_se_lucreaza_cu_obiecte\obj\Debug\OOP_cum_se_lucreaza_cu_obiecte.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_4\OOP_cum_se_lucreaza_cu_obiecte\OOP_cum_se_lucreaza_cu_obiecte\obj\Debug\OOP_cum_se_lucreaza_cu_obiecte.exe
+C:\Folders\Info\C#\Capitolul_4\OOP_cum_se_lucreaza_cu_obiecte\OOP_cum_se_lucreaza_cu_obiecte\obj\Debug\OOP_cum_se_lucreaza_cu_obiecte.pdb

@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\bin\Debug\DtpRuntime.exe.config
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\bin\Debug\DtpRuntime.exe
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\bin\Debug\DtpRuntime.pdb
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\obj\Debug\DtpRuntime.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\obj\Debug\DtpRuntime.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\obj\Debug\DtpRuntime.Form1.resources
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\obj\Debug\DtpRuntime.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\obj\Debug\DtpRuntime.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\obj\Debug\DtpRuntime.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\obj\Debug\DtpRuntime.exe
+C:\Folders\Info\C#\Capitolul_6\DtpRuntime\DtpRuntime\obj\Debug\DtpRuntime.pdb

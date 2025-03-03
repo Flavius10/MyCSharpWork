@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+C:\Folders\Info\C#\Capitolul_7\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb

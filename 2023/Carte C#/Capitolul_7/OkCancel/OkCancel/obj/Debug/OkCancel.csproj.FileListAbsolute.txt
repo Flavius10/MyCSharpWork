@@ -1,0 +1,12 @@
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\bin\Debug\OkCancel.exe.config
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\bin\Debug\OkCancel.exe
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\bin\Debug\OkCancel.pdb
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\obj\Debug\OkCancel.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\obj\Debug\OkCancel.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\obj\Debug\OkCancel.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\obj\Debug\OkCancel.Form2.resources
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\obj\Debug\OkCancel.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\obj\Debug\OkCancel.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\obj\Debug\OkCancel.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\obj\Debug\OkCancel.exe
+C:\Folders\Info\C#\Capitolul_7\OkCancel\OkCancel\obj\Debug\OkCancel.pdb

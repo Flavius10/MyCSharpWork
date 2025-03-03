@@ -1,0 +1,14 @@
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\bin\Debug\Tester.exe.config
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\bin\Debug\Tester.exe
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\bin\Debug\Tester.pdb
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\obj\Debug\Tester.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\obj\Debug\Tester.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\obj\Debug\Tester.FormLogare.resources
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\obj\Debug\Tester.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\obj\Debug\Tester.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\obj\Debug\Tester.exe
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\obj\Debug\Tester.pdb
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\obj\Debug\Tester.FormTest.resources
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\bin\Debug\Cerinte.mdf
+C:\Folders\Info\C#\Proiect_2012\Partea I\Tester\Tester\bin\Debug\Cerinte_log.ldf

@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\bin\Debug\BrushesExample.exe.config
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\bin\Debug\BrushesExample.exe
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\bin\Debug\BrushesExample.pdb
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\obj\Debug\BrushesExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\obj\Debug\BrushesExample.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\obj\Debug\BrushesExample.Form1.resources
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\obj\Debug\BrushesExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\obj\Debug\BrushesExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\obj\Debug\BrushesExample.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\obj\Debug\BrushesExample.exe
+C:\Folders\Info\C#\Capitolul_8\BrushesExample\BrushesExample\obj\Debug\BrushesExample.pdb

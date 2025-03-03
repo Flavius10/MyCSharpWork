@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollutionMap", "PollutionMap\PollutionMap.csproj", "{54610914-F03E-4D58-886B-FEF303E1972B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54610914-F03E-4D58-886B-FEF303E1972B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54610914-F03E-4D58-886B-FEF303E1972B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54610914-F03E-4D58-886B-FEF303E1972B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54610914-F03E-4D58-886B-FEF303E1972B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A75732-69C7-4153-9149-A94A286B3D08}
+	EndGlobalSection
+EndGlobal

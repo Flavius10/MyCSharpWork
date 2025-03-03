@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Folders\Info\C#\Proiecte personale\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb

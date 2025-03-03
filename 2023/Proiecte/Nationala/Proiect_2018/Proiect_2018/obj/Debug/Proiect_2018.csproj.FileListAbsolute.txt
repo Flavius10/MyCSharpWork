@@ -1,0 +1,17 @@
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\bin\Debug\CentenarDB.mdf
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\bin\Debug\CentenarDB_log.ldf
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe.config
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Centenar_Start.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.VizualizareLectii.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.FormaLogare.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.RecuperareParola.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.CreareLectie.resources

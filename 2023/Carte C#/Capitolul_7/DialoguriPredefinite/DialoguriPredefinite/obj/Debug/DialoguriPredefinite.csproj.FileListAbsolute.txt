@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\bin\Debug\DialoguriPredefinite.exe.config
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\bin\Debug\DialoguriPredefinite.exe
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\bin\Debug\DialoguriPredefinite.pdb
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\obj\Debug\DialoguriPredefinite.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\obj\Debug\DialoguriPredefinite.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\obj\Debug\DialoguriPredefinite.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\obj\Debug\DialoguriPredefinite.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\obj\Debug\DialoguriPredefinite.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\obj\Debug\DialoguriPredefinite.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\obj\Debug\DialoguriPredefinite.exe
+C:\Folders\Info\C#\Capitolul_7\DialoguriPredefinite\DialoguriPredefinite\obj\Debug\DialoguriPredefinite.pdb

@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|c:\\folders\\informatica\\c#\\projects\\testcodefirst\\testcodefirst\\controllers\\elevicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|solutionrelative:testcodefirst\\controllers\\elevicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|c:\\folders\\informatica\\c#\\projects\\testcodefirst\\testcodefirst\\testcodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|solutionrelative:testcodefirst\\testcodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|c:\\folders\\informatica\\c#\\projects\\testcodefirst\\testcodefirst\\models\\elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|solutionrelative:testcodefirst\\models\\elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|c:\\folders\\informatica\\c#\\projects\\testcodefirst\\testcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|solutionrelative:testcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|c:\\folders\\informatica\\c#\\projects\\testcodefirst\\testcodefirst\\models\\scoaladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|solutionrelative:testcodefirst\\models\\scoaladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|c:\\folders\\informatica\\c#\\projects\\testcodefirst\\testcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37896C9C-A142-481E-9527-E81BD6B6E812}|TestCodeFirst\\TestCodeFirst.csproj|solutionrelative:testcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Elev.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\Models\\Elev.cs",
+              "RelativeDocumentMoniker": "TestCodeFirst\\Models\\Elev.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\Models\\Elev.cs",
+              "RelativeToolTip": "TestCodeFirst\\Models\\Elev.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:44:38.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestCodeFirst.csproj",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\TestCodeFirst.csproj",
+              "RelativeDocumentMoniker": "TestCodeFirst\\TestCodeFirst.csproj",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\TestCodeFirst.csproj",
+              "RelativeToolTip": "TestCodeFirst\\TestCodeFirst.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T14:20:52.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "TestCodeFirst\\Program.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\Program.cs",
+              "RelativeToolTip": "TestCodeFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:12:17.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "TestCodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\appsettings.json",
+              "RelativeToolTip": "TestCodeFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-31T19:47:56.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoalaDbContext.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\Models\\ScoalaDbContext.cs",
+              "RelativeDocumentMoniker": "TestCodeFirst\\Models\\ScoalaDbContext.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\Models\\ScoalaDbContext.cs",
+              "RelativeToolTip": "TestCodeFirst\\Models\\ScoalaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T19:36:27.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EleviController.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\Controllers\\EleviController.cs",
+              "RelativeDocumentMoniker": "TestCodeFirst\\Controllers\\EleviController.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Projects\\TestCodeFirst\\TestCodeFirst\\Controllers\\EleviController.cs",
+              "RelativeToolTip": "TestCodeFirst\\Controllers\\EleviController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T18:45:13.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

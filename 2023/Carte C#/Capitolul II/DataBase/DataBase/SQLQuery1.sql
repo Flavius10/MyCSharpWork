@@ -1,0 +1,1 @@
+﻿CREATE TABLE Clase(IDClasa varchar(5), Profil varchar(50),NrElevi int)

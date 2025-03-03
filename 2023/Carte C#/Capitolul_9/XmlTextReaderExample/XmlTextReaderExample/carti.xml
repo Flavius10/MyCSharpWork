@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!-- Citire fisier XML-->
+<biblioteca>
+	<carte ISBN ="186-383-537">
+		<Titlu>Amintiri din copilarie</Titlu>
+		<Pret>13.20</Pret>
+		<Autor>Ion Creanga</Autor>
+	</carte>
+</biblioteca>

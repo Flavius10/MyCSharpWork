@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Persoana>
+  <Customer Nume="Flavius">
+    <Address>16A Strada Slatiniei</Address>
+  </Customer>
+  <Customer Nume="Luca">
+    <Address>16A Strada Slatinitei</Address>
+  </Customer>
+</Persoana>

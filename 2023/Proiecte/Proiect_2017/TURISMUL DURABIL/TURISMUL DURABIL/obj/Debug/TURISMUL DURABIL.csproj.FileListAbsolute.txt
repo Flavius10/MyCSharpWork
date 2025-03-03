@@ -1,0 +1,13 @@
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\bin\Debug\Turism.mdf
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\bin\Debug\Turism_log.ldf
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\bin\Debug\TURISMUL DURABIL.exe.config
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\bin\Debug\TURISMUL DURABIL.exe
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\bin\Debug\TURISMUL DURABIL.pdb
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\obj\Debug\TURISMUL DURABIL.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\obj\Debug\TURISMUL DURABIL.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\obj\Debug\TURISMUL_DURABIL.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\obj\Debug\TURISMUL DURABIL.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\obj\Debug\TURISMUL DURABIL.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\obj\Debug\TURISMUL DURABIL.exe
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\obj\Debug\TURISMUL DURABIL.pdb
+C:\Folders\Info\C#\Proiect_2017\TURISMUL DURABIL\TURISMUL DURABIL\obj\Debug\TURISMUL_DURABIL.TurismForm.resources

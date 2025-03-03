@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\bin\Debug\ProblemePropuseTextBox.exe.config
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\bin\Debug\ProblemePropuseTextBox.exe
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\bin\Debug\ProblemePropuseTextBox.pdb
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\obj\Debug\ProblemePropuseTextBox.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\obj\Debug\ProblemePropuseTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\obj\Debug\ProblemePropuseTextBox.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\obj\Debug\ProblemePropuseTextBox.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\obj\Debug\ProblemePropuseTextBox.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\obj\Debug\ProblemePropuseTextBox.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\obj\Debug\ProblemePropuseTextBox.exe
+C:\Folders\Info\C#\Capitolul_7\ProblemePropuseTextBox\ProblemePropuseTextBox\obj\Debug\ProblemePropuseTextBox.pdb

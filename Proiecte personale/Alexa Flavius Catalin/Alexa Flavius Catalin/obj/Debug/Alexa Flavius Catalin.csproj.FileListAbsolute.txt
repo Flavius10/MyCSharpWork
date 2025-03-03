@@ -1,0 +1,12 @@
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\bin\Debug\FarmacieDB.mdf
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\bin\Debug\FarmacieDB_log.ldf
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\bin\Debug\Alexa Flavius Catalin.exe.config
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\bin\Debug\Alexa Flavius Catalin.exe
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\bin\Debug\Alexa Flavius Catalin.pdb
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\obj\Debug\Alexa Flavius Catalin.csproj.AssemblyReference.cache
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\obj\Debug\Alexa_Flavius_Catalin.Drogherie.resources
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\obj\Debug\Alexa_Flavius_Catalin.Properties.Resources.resources
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\obj\Debug\Alexa Flavius Catalin.csproj.GenerateResource.cache
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\obj\Debug\Alexa Flavius Catalin.csproj.CoreCompileInputs.cache
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\obj\Debug\Alexa Flavius Catalin.exe
+C:\Users\start\Desktop\Alexa Flavius Catalin\Alexa Flavius Catalin\obj\Debug\Alexa Flavius Catalin.pdb

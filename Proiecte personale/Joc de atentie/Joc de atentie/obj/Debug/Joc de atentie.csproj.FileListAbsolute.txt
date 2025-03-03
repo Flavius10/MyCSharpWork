@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\bin\Debug\Joc de atentie.exe.config
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\bin\Debug\Joc de atentie.exe
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\bin\Debug\Joc de atentie.pdb
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\obj\Debug\Joc_de_atentie.JocDeAtentie.resources
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\obj\Debug\Joc_de_atentie.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.exe
+C:\Folders\Info\C#\Proiecte personale\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.pdb

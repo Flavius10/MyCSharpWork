@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\bin\Debug\LabelExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\bin\Debug\LabelExemple.exe
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\bin\Debug\LabelExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\obj\Debug\LabelExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\obj\Debug\LabelExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\obj\Debug\LabelExemple.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\obj\Debug\LabelExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\obj\Debug\LabelExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\obj\Debug\LabelExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\obj\Debug\LabelExemple.exe
+C:\Folders\Info\C#\Capitolul_7\LabelExemple\LabelExemple\obj\Debug\LabelExemple.pdb

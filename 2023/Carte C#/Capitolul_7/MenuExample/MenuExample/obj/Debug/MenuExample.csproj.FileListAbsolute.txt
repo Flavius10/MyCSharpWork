@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\bin\Debug\MenuExample.exe.config
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\bin\Debug\MenuExample.exe
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\bin\Debug\MenuExample.pdb
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\obj\Debug\MenuExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\obj\Debug\MenuExample.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\obj\Debug\MenuExample.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\obj\Debug\MenuExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\obj\Debug\MenuExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\obj\Debug\MenuExample.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\obj\Debug\MenuExample.exe
+C:\Folders\Info\C#\Capitolul_7\MenuExample\MenuExample\obj\Debug\MenuExample.pdb

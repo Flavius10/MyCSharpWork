@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\bin\Debug\PaintExample2.exe.config
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\bin\Debug\PaintExample2.exe
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\bin\Debug\PaintExample2.pdb
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\obj\Debug\PaintExample2.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\obj\Debug\PaintExample2.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\obj\Debug\PaintExample2.Form1.resources
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\obj\Debug\PaintExample2.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\obj\Debug\PaintExample2.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\obj\Debug\PaintExample2.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\obj\Debug\PaintExample2.exe
+C:\Folders\Info\C#\Capitolul_8\PaintExample2\PaintExample2\obj\Debug\PaintExample2.pdb

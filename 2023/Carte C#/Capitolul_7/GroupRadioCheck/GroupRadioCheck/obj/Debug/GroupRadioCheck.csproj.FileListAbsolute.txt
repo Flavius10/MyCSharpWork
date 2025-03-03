@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\bin\Debug\GroupRadioCheck.exe.config
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\bin\Debug\GroupRadioCheck.exe
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\bin\Debug\GroupRadioCheck.pdb
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\obj\Debug\GroupRadioCheck.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\obj\Debug\GroupRadioCheck.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\obj\Debug\GroupRadioCheck.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\obj\Debug\GroupRadioCheck.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\obj\Debug\GroupRadioCheck.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\obj\Debug\GroupRadioCheck.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\obj\Debug\GroupRadioCheck.exe
+C:\Folders\Info\C#\Capitolul_7\GroupRadioCheck\GroupRadioCheck\obj\Debug\GroupRadioCheck.pdb

@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\bin\Debug\XmlExample.exe.config
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\bin\Debug\XmlExample.exe
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\bin\Debug\XmlExample.pdb
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\obj\Debug\XmlExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\obj\Debug\XmlExample.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\obj\Debug\XmlExample.Form1.resources
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\obj\Debug\XmlExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\obj\Debug\XmlExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\obj\Debug\XmlExample.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\obj\Debug\XmlExample.exe
+C:\Folders\Info\C#\Capitolul_9\XmlExample\XmlExample\obj\Debug\XmlExample.pdb

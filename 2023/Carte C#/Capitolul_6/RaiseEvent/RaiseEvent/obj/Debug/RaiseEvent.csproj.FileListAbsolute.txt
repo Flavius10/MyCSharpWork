@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\bin\Debug\RaiseEvent.exe.config
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\bin\Debug\RaiseEvent.exe
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\bin\Debug\RaiseEvent.pdb
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\obj\Debug\RaiseEvent.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\obj\Debug\RaiseEvent.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\obj\Debug\RaiseEvent.Form1.resources
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\obj\Debug\RaiseEvent.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\obj\Debug\RaiseEvent.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\obj\Debug\RaiseEvent.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\obj\Debug\RaiseEvent.exe
+C:\Folders\Info\C#\Capitolul_6\RaiseEvent\RaiseEvent\obj\Debug\RaiseEvent.pdb

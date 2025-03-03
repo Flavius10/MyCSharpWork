@@ -1,0 +1,22 @@
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\bin\Debug\Olimpiada 2023 Nationala Cerinta5.exe.config
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\bin\Debug\Olimpiada 2023 Nationala Cerinta5.exe
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\bin\Debug\Olimpiada 2023 Nationala Cerinta5.pdb
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada_2023_Nationala_Cerinta5.Cerinta.resources
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada_2023_Nationala_Cerinta5.Properties.Resources.resources
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.csproj.GenerateResource.cache
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.exe
+C:\Folders\Info\C#\2024\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.pdb
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\bin\Debug\Olimpiada 2023 Nationala Cerinta5.exe.config
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\bin\Debug\Olimpiada 2023 Nationala Cerinta5.exe
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\bin\Debug\Olimpiada 2023 Nationala Cerinta5.pdb
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada_2023_Nationala_Cerinta5.Cerinta.resources
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada_2023_Nationala_Cerinta5.Properties.Resources.resources
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.csproj.GenerateResource.cache
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.exe
+C:\Folders\Info\C#\2024\Exercitii\Olimpiada 2023 Nationala Cerinta5\Olimpiada 2023 Nationala Cerinta5\obj\Debug\Olimpiada 2023 Nationala Cerinta5.pdb

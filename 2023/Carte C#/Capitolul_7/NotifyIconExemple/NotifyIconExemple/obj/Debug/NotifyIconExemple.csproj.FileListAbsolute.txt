@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\bin\Debug\NotifyIconExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\bin\Debug\NotifyIconExemple.exe
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\bin\Debug\NotifyIconExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\obj\Debug\NotifyIconExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\obj\Debug\NotifyIconExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\obj\Debug\NotifyIconExemple.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\obj\Debug\NotifyIconExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\obj\Debug\NotifyIconExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\obj\Debug\NotifyIconExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\obj\Debug\NotifyIconExemple.exe
+C:\Folders\Info\C#\Capitolul_7\NotifyIconExemple\NotifyIconExemple\obj\Debug\NotifyIconExemple.pdb

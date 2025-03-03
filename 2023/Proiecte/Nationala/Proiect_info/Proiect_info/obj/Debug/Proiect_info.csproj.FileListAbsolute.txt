@@ -1,0 +1,12 @@
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\bin\Debug\Proiect_info.exe.config
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\bin\Debug\Proiect_info.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\bin\Debug\Proiect_info.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\obj\Debug\Proiect_info.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\obj\Debug\Proiect_info.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\obj\Debug\Proiect_info.Proiect.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\obj\Debug\Proiect_info.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\obj\Debug\Proiect_info.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\obj\Debug\Proiect_info.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\obj\Debug\Proiect_info.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\obj\Debug\Proiect_info.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_info\Proiect_info\obj\Debug\Proiect_info.AlegeMasina.resources

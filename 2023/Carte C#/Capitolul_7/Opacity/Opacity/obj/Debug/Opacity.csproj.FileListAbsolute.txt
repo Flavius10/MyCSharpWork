@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\bin\Debug\Opacity.exe.config
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\bin\Debug\Opacity.exe
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\bin\Debug\Opacity.pdb
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\obj\Debug\Opacity.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\obj\Debug\Opacity.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\obj\Debug\Opacity.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\obj\Debug\Opacity.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\obj\Debug\Opacity.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\obj\Debug\Opacity.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\obj\Debug\Opacity.exe
+C:\Folders\Info\C#\Capitolul_7\Opacity\Opacity\obj\Debug\Opacity.pdb

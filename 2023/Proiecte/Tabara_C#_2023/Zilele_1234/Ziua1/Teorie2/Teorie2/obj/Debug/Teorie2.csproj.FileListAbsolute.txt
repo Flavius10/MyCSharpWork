@@ -1,0 +1,8 @@
+C:\Users\Profesor\Desktop\tabara\Teorie2\Teorie2\bin\Debug\Teorie2.exe.config
+C:\Users\Profesor\Desktop\tabara\Teorie2\Teorie2\bin\Debug\Teorie2.exe
+C:\Users\Profesor\Desktop\tabara\Teorie2\Teorie2\bin\Debug\Teorie2.pdb
+C:\Users\Profesor\Desktop\tabara\Teorie2\Teorie2\obj\Debug\Teorie2.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Teorie2\Teorie2\obj\Debug\Teorie2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Teorie2\Teorie2\obj\Debug\Teorie2.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Teorie2\Teorie2\obj\Debug\Teorie2.exe
+C:\Users\Profesor\Desktop\tabara\Teorie2\Teorie2\obj\Debug\Teorie2.pdb

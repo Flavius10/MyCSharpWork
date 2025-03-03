@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\bin\Debug\Ghicitoare.exe.config
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\bin\Debug\Ghicitoare.exe
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\bin\Debug\Ghicitoare.pdb
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.Form1.resources
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.exe
+C:\Folders\Info\C#\Proiecte personale\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.pdb

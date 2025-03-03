@@ -1,0 +1,12 @@
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\bin\Debug\Desenare_PictureBox.exe.config
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\bin\Debug\Desenare_PictureBox.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\bin\Debug\Desenare_PictureBox.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\obj\Debug\Desenare_PictureBox.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\obj\Debug\Desenare_PictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\obj\Debug\Desenare_PictureBox.Desenare.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\obj\Debug\Desenare_PictureBox.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\obj\Debug\Desenare_PictureBox.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\obj\Debug\Desenare_PictureBox.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\obj\Debug\Desenare_PictureBox.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\obj\Debug\Desenare_PictureBox.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Desenare_PictureBox\Desenare_PictureBox\obj\Debug\Desenare_PictureBox.CropForm.resources

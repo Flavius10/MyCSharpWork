@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\bin\Debug\ListViewExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\bin\Debug\ListViewExemple.exe
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\bin\Debug\ListViewExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\obj\Debug\ListViewExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\obj\Debug\ListViewExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\obj\Debug\ListViewExemple.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\obj\Debug\ListViewExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\obj\Debug\ListViewExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\obj\Debug\ListViewExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\obj\Debug\ListViewExemple.exe
+C:\Folders\Info\C#\Capitolul_7\ListViewExemple\ListViewExemple\obj\Debug\ListViewExemple.pdb

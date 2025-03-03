@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\bin\Debug\ButtonFocus.exe.config
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\bin\Debug\ButtonFocus.exe
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\bin\Debug\ButtonFocus.pdb
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\obj\Debug\ButtonFocus.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\obj\Debug\ButtonFocus.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\obj\Debug\ButtonFocus.Form1.resources
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\obj\Debug\ButtonFocus.Properties.Resources.resources
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\obj\Debug\ButtonFocus.csproj.GenerateResource.cache
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\obj\Debug\ButtonFocus.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\obj\Debug\ButtonFocus.exe
+C:\Folders\Info\C#\C#_Olimpiada\ButtonFocus\ButtonFocus\obj\Debug\ButtonFocus.pdb

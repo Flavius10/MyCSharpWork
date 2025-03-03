@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe.config
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.pdb
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.MainForm.resources
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.exe
+C:\Folders\Info\C#\Proiecte\C#_Olimpiada\11.05\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.pdb

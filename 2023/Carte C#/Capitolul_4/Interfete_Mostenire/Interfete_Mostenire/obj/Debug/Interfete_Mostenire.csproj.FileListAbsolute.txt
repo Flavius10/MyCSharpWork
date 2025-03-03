@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_4\Interfete_Mostenire\Interfete_Mostenire\bin\Debug\Interfete_Mostenire.exe.config
+C:\Folders\Info\C#\Capitolul_4\Interfete_Mostenire\Interfete_Mostenire\bin\Debug\Interfete_Mostenire.exe
+C:\Folders\Info\C#\Capitolul_4\Interfete_Mostenire\Interfete_Mostenire\bin\Debug\Interfete_Mostenire.pdb
+C:\Folders\Info\C#\Capitolul_4\Interfete_Mostenire\Interfete_Mostenire\obj\Debug\Interfete_Mostenire.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_4\Interfete_Mostenire\Interfete_Mostenire\obj\Debug\Interfete_Mostenire.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_4\Interfete_Mostenire\Interfete_Mostenire\obj\Debug\Interfete_Mostenire.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_4\Interfete_Mostenire\Interfete_Mostenire\obj\Debug\Interfete_Mostenire.exe
+C:\Folders\Info\C#\Capitolul_4\Interfete_Mostenire\Interfete_Mostenire\obj\Debug\Interfete_Mostenire.pdb

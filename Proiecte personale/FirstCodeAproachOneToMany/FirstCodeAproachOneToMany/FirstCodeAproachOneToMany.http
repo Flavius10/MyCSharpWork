@@ -1,0 +1,6 @@
+@FirstCodeAproachOneToMany_HostAddress = http://localhost:5204
+
+GET {{FirstCodeAproachOneToMany_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

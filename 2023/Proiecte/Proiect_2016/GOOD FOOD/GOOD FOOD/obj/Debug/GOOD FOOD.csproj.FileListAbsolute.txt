@@ -1,0 +1,34 @@
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD_FOOD.mdf
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD_FOOD_log.ldf
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD FOOD.exe.config
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD FOOD.exe
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD FOOD.pdb
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.GoodFoodStart.resources
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.exe
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.pdb
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Autentificare_client.resources
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Creare_cont_client.resources
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Optiuni.resources
+C:\Folders\Info\C#\Proiect_2019\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Vizualizare_comanda.resources
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD_FOOD.mdf
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD_FOOD_log.ldf
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD FOOD.exe.config
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD FOOD.exe
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\bin\Debug\GOOD FOOD.pdb
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Autentificare_client.resources
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Creare_cont_client.resources
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.GoodFoodStart.resources
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Optiuni.resources
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD_FOOD.Vizualizare_comanda.resources
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.exe
+C:\Folders\Info\C#\Proiect_2016\GOOD FOOD\GOOD FOOD\obj\Debug\GOOD FOOD.pdb

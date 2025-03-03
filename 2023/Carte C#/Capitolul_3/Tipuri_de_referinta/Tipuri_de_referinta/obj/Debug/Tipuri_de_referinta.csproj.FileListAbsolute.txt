@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Tipuri_de_referinta\Tipuri_de_referinta\bin\Debug\Tipuri_de_referinta.exe.config
+C:\Folders\Info\C#\Tipuri_de_referinta\Tipuri_de_referinta\bin\Debug\Tipuri_de_referinta.exe
+C:\Folders\Info\C#\Tipuri_de_referinta\Tipuri_de_referinta\bin\Debug\Tipuri_de_referinta.pdb
+C:\Folders\Info\C#\Tipuri_de_referinta\Tipuri_de_referinta\obj\Debug\Tipuri_de_referinta.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Tipuri_de_referinta\Tipuri_de_referinta\obj\Debug\Tipuri_de_referinta.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Tipuri_de_referinta\Tipuri_de_referinta\obj\Debug\Tipuri_de_referinta.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Tipuri_de_referinta\Tipuri_de_referinta\obj\Debug\Tipuri_de_referinta.exe
+C:\Folders\Info\C#\Tipuri_de_referinta\Tipuri_de_referinta\obj\Debug\Tipuri_de_referinta.pdb

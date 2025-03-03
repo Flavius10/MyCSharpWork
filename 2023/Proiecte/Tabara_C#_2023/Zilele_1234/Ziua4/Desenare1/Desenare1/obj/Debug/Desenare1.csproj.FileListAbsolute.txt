@@ -1,0 +1,11 @@
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\bin\Debug\Desenare1.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\bin\Debug\Desenare1.exe
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\bin\Debug\Desenare1.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\obj\Debug\Desenare1.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\obj\Debug\Desenare1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\obj\Debug\Desenare1.DesenForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\obj\Debug\Desenare1.Properties.Resources.resources
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\obj\Debug\Desenare1.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\obj\Debug\Desenare1.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\obj\Debug\Desenare1.exe
+C:\Users\Profesor\Desktop\tabara\Ziua4\Desenare1\Desenare1\obj\Debug\Desenare1.pdb

@@ -1,0 +1,12 @@
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IEsire.resources
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Folders\Info\C#\C#_Olimpiada\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\bin\Debug\ImageResourceExample.exe.config
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\bin\Debug\ImageResourceExample.exe
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\bin\Debug\ImageResourceExample.pdb
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\obj\Debug\ImageResourceExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\obj\Debug\ImageResourceExample.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\obj\Debug\ImageResourceExample.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\obj\Debug\ImageResourceExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\obj\Debug\ImageResourceExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\obj\Debug\ImageResourceExample.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\obj\Debug\ImageResourceExample.exe
+C:\Folders\Info\C#\Capitolul_7\ImageResourceExample\ImageResourceExample\obj\Debug\ImageResourceExample.pdb

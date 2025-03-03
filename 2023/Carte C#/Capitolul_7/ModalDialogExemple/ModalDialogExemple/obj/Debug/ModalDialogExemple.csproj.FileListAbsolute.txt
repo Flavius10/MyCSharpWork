@@ -1,0 +1,12 @@
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\bin\Debug\ModalDialogExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\bin\Debug\ModalDialogExemple.exe
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\bin\Debug\ModalDialogExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\obj\Debug\ModalDialogExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\obj\Debug\ModalDialogExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\obj\Debug\ModalDialogExemple.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\obj\Debug\ModalDialogExemple.Form2.resources
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\obj\Debug\ModalDialogExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\obj\Debug\ModalDialogExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\obj\Debug\ModalDialogExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\obj\Debug\ModalDialogExemple.exe
+C:\Folders\Info\C#\Capitolul_7\ModalDialogExemple\ModalDialogExemple\obj\Debug\ModalDialogExemple.pdb

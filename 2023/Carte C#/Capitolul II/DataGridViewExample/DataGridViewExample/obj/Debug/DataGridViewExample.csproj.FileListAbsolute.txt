@@ -1,0 +1,13 @@
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\bin\Debug\Sport.mdf
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\bin\Debug\Sport_log.ldf
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Folders\Info\C#\Capitolul II\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb

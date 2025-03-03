@@ -1,0 +1,7 @@
+C:\Folders\Info\C#\Capitolul_9\XmlTextreaderExample\XmlTextreaderExample\obj\Debug\net6.0\XmlTextreaderExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_9\XmlTextreaderExample\XmlTextreaderExample\obj\Debug\net6.0\XmlTextreaderExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_9\XmlTextreaderExample\XmlTextreaderExample\obj\Debug\net6.0\XmlTextreaderExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_9\XmlTextreaderExample\XmlTextreaderExample\obj\Debug\net6.0\XmlTextreaderExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Folders\Info\C#\Capitolul_9\XmlTextreaderExample\XmlTextreaderExample\obj\Debug\net6.0\XmlTextreaderExample.AssemblyInfoInputs.cache
+C:\Folders\Info\C#\Capitolul_9\XmlTextreaderExample\XmlTextreaderExample\obj\Debug\net6.0\XmlTextreaderExample.AssemblyInfo.cs
+C:\Folders\Info\C#\Capitolul_9\XmlTextreaderExample\XmlTextreaderExample\obj\Debug\net6.0\XmlTextreaderExample.csproj.CoreCompileInputs.cache

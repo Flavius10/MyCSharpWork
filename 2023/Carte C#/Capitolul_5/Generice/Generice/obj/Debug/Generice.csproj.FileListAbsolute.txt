@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_5\Generice\Generice\bin\Debug\Generice.exe.config
+C:\Folders\Info\C#\Capitolul_5\Generice\Generice\bin\Debug\Generice.exe
+C:\Folders\Info\C#\Capitolul_5\Generice\Generice\bin\Debug\Generice.pdb
+C:\Folders\Info\C#\Capitolul_5\Generice\Generice\obj\Debug\Generice.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_5\Generice\Generice\obj\Debug\Generice.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_5\Generice\Generice\obj\Debug\Generice.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_5\Generice\Generice\obj\Debug\Generice.exe
+C:\Folders\Info\C#\Capitolul_5\Generice\Generice\obj\Debug\Generice.pdb

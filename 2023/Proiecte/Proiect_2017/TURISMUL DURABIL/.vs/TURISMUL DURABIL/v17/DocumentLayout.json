@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2017\\TURISMUL DURABIL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59660986-D3EB-4BB7-8ABE-1EFA28120AD5}|TURISMUL DURABIL\\TURISMUL DURABIL.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2017\\TURISMUL DURABIL\\turismul durabil\\turism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59660986-D3EB-4BB7-8ABE-1EFA28120AD5}|TURISMUL DURABIL\\TURISMUL DURABIL.csproj|solutionrelative:turismul durabil\\turism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TURISMUL DURABIL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59660986-D3EB-4BB7-8ABE-1EFA28120AD5}|TURISMUL DURABIL\\TURISMUL DURABIL.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2017\\TURISMUL DURABIL\\turismul durabil\\turism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59660986-D3EB-4BB7-8ABE-1EFA28120AD5}|TURISMUL DURABIL\\TURISMUL DURABIL.csproj|solutionrelative:turismul durabil\\turism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59660986-D3EB-4BB7-8ABE-1EFA28120AD5}|TURISMUL DURABIL\\TURISMUL DURABIL.csproj|c:\\folders\\informatica\\c#\\2023\\proiecte\\proiect_2017\\turismul durabil\\turismul durabil\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{59660986-D3EB-4BB7-8ABE-1EFA28120AD5}|TURISMUL DURABIL\\TURISMUL DURABIL.csproj|solutionrelative:turismul durabil\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Turism.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2017\\TURISMUL DURABIL\\TURISMUL DURABIL\\Turism.cs",
+              "RelativeDocumentMoniker": "TURISMUL DURABIL\\Turism.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2017\\TURISMUL DURABIL\\TURISMUL DURABIL\\Turism.cs",
+              "RelativeToolTip": "TURISMUL DURABIL\\Turism.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAwwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:16:01.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Turism.cs [Design]",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2017\\TURISMUL DURABIL\\TURISMUL DURABIL\\Turism.cs",
+              "RelativeDocumentMoniker": "TURISMUL DURABIL\\Turism.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2017\\TURISMUL DURABIL\\TURISMUL DURABIL\\Turism.cs [Design]",
+              "RelativeToolTip": "TURISMUL DURABIL\\Turism.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:16:01.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TURISMUL DURABIL",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2017\\TURISMUL DURABIL\\TURISMUL DURABIL\\TURISMUL DURABIL.csproj",
+              "RelativeDocumentMoniker": "TURISMUL DURABIL\\TURISMUL DURABIL.csproj",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2017\\TURISMUL DURABIL\\TURISMUL DURABIL\\TURISMUL DURABIL.csproj",
+              "RelativeToolTip": "TURISMUL DURABIL\\TURISMUL DURABIL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-03-07T14:31:32.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

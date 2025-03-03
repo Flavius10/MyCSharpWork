@@ -1,0 +1,13 @@
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\bin\Debug\Agenţie matrimonială.exe
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\bin\Debug\Matrimoniale.mdf
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\bin\Debug\Matrimoniale_log.ldf
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\bin\Debug\Agenţie matrimonială.exe.config
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\bin\Debug\Agenţie matrimonială.pdb
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\obj\Debug\Agenţie matrimonială.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\obj\Debug\Agenţie matrimonială.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\obj\Debug\Agenţie_matrimonială.FormMatrimoniale.resources
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\obj\Debug\Agenţie_matrimonială.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\obj\Debug\Agenţie matrimonială.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\obj\Debug\Agenţie matrimonială.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\obj\Debug\Agenţie matrimonială.exe
+C:\Folders\Info\C#\Proiect_2012\Partea II\Agenţie matrimonială\Agenţie matrimonială\obj\Debug\Agenţie matrimonială.pdb

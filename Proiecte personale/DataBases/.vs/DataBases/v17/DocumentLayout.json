@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\DataBases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE09D59-0707-4835-B72B-38B31428F3BA}|DataBases\\DataBases.csproj|c:\\folders\\informatica\\c#\\proiecte personale\\databases\\databases\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE09D59-0707-4835-B72B-38B31428F3BA}|DataBases\\DataBases.csproj|solutionrelative:databases\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE09D59-0707-4835-B72B-38B31428F3BA}|DataBases\\DataBases.csproj|C:\\Folders\\Informatica\\C#\\Proiecte personale\\DataBases\\databases\\moviedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{FFE09D59-0707-4835-B72B-38B31428F3BA}|DataBases\\DataBases.csproj|solutionrelative:databases\\moviedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE09D59-0707-4835-B72B-38B31428F3BA}|DataBases\\DataBases.csproj|C:\\Folders\\Informatica\\C#\\Proiecte personale\\DataBases\\databases\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFE09D59-0707-4835-B72B-38B31428F3BA}|DataBases\\DataBases.csproj|solutionrelative:databases\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filme.cs [Design]",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\DataBases\\DataBases\\Filme.cs",
+              "RelativeDocumentMoniker": "DataBases\\Filme.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\DataBases\\DataBases\\Filme.cs [Design]",
+              "RelativeToolTip": "DataBases\\Filme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-22T14:15:49.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDataSet.xsd",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\DataBases\\DataBases\\MovieDataSet.xsd",
+              "RelativeDocumentMoniker": "DataBases\\MovieDataSet.xsd",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\DataBases\\DataBases\\MovieDataSet.xsd",
+              "RelativeToolTip": "DataBases\\MovieDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2023-11-22T14:15:49.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\DataBases\\DataBases\\Filme.cs",
+              "RelativeDocumentMoniker": "DataBases\\Filme.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\DataBases\\DataBases\\Filme.cs",
+              "RelativeToolTip": "DataBases\\Filme.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-22T14:15:49.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

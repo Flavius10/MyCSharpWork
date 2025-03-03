@@ -1,0 +1,12 @@
+C:\Folders\Informatica\C#\Projects\Joins\Joins\bin\Debug\OrdersClientsDB.mdf
+C:\Folders\Informatica\C#\Projects\Joins\Joins\bin\Debug\OrdersClientsDB_log.ldf
+C:\Folders\Informatica\C#\Projects\Joins\Joins\bin\Debug\Joins.exe.config
+C:\Folders\Informatica\C#\Projects\Joins\Joins\bin\Debug\Joins.exe
+C:\Folders\Informatica\C#\Projects\Joins\Joins\bin\Debug\Joins.pdb
+C:\Folders\Informatica\C#\Projects\Joins\Joins\obj\Debug\Joins.csproj.AssemblyReference.cache
+C:\Folders\Informatica\C#\Projects\Joins\Joins\obj\Debug\Joins.JoinsForm.resources
+C:\Folders\Informatica\C#\Projects\Joins\Joins\obj\Debug\Joins.Properties.Resources.resources
+C:\Folders\Informatica\C#\Projects\Joins\Joins\obj\Debug\Joins.csproj.GenerateResource.cache
+C:\Folders\Informatica\C#\Projects\Joins\Joins\obj\Debug\Joins.csproj.CoreCompileInputs.cache
+C:\Folders\Informatica\C#\Projects\Joins\Joins\obj\Debug\Joins.exe
+C:\Folders\Informatica\C#\Projects\Joins\Joins\obj\Debug\Joins.pdb

@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\obj\Debug\Drawing.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Folders\Info\C#\Nationala\Drawing\Drawing\obj\Debug\Drawing.pdb

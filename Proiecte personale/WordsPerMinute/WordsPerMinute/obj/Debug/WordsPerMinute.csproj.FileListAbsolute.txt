@@ -1,0 +1,13 @@
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.csproj.AssemblyReference.cache
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.WordsPerMinute.resources
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.Properties.Resources.resources
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.csproj.GenerateResource.cache
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.csproj.CoreCompileInputs.cache
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\bin\Debug\WordsPerMinute.exe.config
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\bin\Debug\WordsPerMinute.exe
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\bin\Debug\WordsPerMinute.pdb
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.exe
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.pdb
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.LoginPage.resources
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.InregistrarePage.resources
+C:\Folders\Informatica\C#\Proiecte personale\WordsPerMinute\WordsPerMinute\obj\Debug\WordsPerMinute.TryYourFingers.resources

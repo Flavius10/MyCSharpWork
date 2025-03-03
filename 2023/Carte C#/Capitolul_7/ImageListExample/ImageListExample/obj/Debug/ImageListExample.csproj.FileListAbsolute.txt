@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\bin\Debug\ImageListExample.exe.config
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\bin\Debug\ImageListExample.exe
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\bin\Debug\ImageListExample.pdb
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\obj\Debug\ImageListExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\obj\Debug\ImageListExample.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\obj\Debug\ImageListExample.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\obj\Debug\ImageListExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\obj\Debug\ImageListExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\obj\Debug\ImageListExample.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\obj\Debug\ImageListExample.exe
+C:\Folders\Info\C#\Capitolul_7\ImageListExample\ImageListExample\obj\Debug\ImageListExample.pdb

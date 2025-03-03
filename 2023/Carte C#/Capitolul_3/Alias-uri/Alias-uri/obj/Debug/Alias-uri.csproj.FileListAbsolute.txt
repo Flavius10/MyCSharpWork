@@ -1,0 +1,8 @@
+C:\Folders\Info\Editor_programatic\Alias-uri\Alias-uri\bin\Debug\Alias-uri.exe.config
+C:\Folders\Info\Editor_programatic\Alias-uri\Alias-uri\bin\Debug\Alias-uri.exe
+C:\Folders\Info\Editor_programatic\Alias-uri\Alias-uri\bin\Debug\Alias-uri.pdb
+C:\Folders\Info\Editor_programatic\Alias-uri\Alias-uri\obj\Debug\Alias-uri.csproj.AssemblyReference.cache
+C:\Folders\Info\Editor_programatic\Alias-uri\Alias-uri\obj\Debug\Alias-uri.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\Editor_programatic\Alias-uri\Alias-uri\obj\Debug\Alias-uri.csproj.CoreCompileInputs.cache
+C:\Folders\Info\Editor_programatic\Alias-uri\Alias-uri\obj\Debug\Alias-uri.exe
+C:\Folders\Info\Editor_programatic\Alias-uri\Alias-uri\obj\Debug\Alias-uri.pdb

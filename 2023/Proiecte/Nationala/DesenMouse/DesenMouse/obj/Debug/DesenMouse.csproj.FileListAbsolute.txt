@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\bin\Debug\DesenMouse.exe.config
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\bin\Debug\DesenMouse.exe
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\bin\Debug\DesenMouse.pdb
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\obj\Debug\DesenMouse.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\obj\Debug\DesenMouse.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\obj\Debug\DesenMouse.DesenMouse.resources
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\obj\Debug\DesenMouse.Properties.Resources.resources
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\obj\Debug\DesenMouse.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\obj\Debug\DesenMouse.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\obj\Debug\DesenMouse.exe
+C:\Folders\Info\C#\Nationala\DesenMouse\DesenMouse\obj\Debug\DesenMouse.pdb

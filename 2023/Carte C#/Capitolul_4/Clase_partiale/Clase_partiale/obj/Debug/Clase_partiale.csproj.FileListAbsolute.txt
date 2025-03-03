@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_4\Clase_partiale\Clase_partiale\bin\Debug\Clase_partiale.exe.config
+C:\Folders\Info\C#\Capitolul_4\Clase_partiale\Clase_partiale\bin\Debug\Clase_partiale.exe
+C:\Folders\Info\C#\Capitolul_4\Clase_partiale\Clase_partiale\bin\Debug\Clase_partiale.pdb
+C:\Folders\Info\C#\Capitolul_4\Clase_partiale\Clase_partiale\obj\Debug\Clase_partiale.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_4\Clase_partiale\Clase_partiale\obj\Debug\Clase_partiale.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_4\Clase_partiale\Clase_partiale\obj\Debug\Clase_partiale.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_4\Clase_partiale\Clase_partiale\obj\Debug\Clase_partiale.exe
+C:\Folders\Info\C#\Capitolul_4\Clase_partiale\Clase_partiale\obj\Debug\Clase_partiale.pdb

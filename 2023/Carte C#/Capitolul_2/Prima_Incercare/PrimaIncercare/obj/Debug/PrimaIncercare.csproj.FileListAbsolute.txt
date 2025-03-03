@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\PrimaIncercare\PrimaIncercare\bin\Debug\PrimaIncercare.exe.config
+C:\Folders\Info\C#\PrimaIncercare\PrimaIncercare\bin\Debug\PrimaIncercare.exe
+C:\Folders\Info\C#\PrimaIncercare\PrimaIncercare\bin\Debug\PrimaIncercare.pdb
+C:\Folders\Info\C#\PrimaIncercare\PrimaIncercare\obj\Debug\PrimaIncercare.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\PrimaIncercare\PrimaIncercare\obj\Debug\PrimaIncercare.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\PrimaIncercare\PrimaIncercare\obj\Debug\PrimaIncercare.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\PrimaIncercare\PrimaIncercare\obj\Debug\PrimaIncercare.exe
+C:\Folders\Info\C#\PrimaIncercare\PrimaIncercare\obj\Debug\PrimaIncercare.pdb

@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.exe.config
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.exe
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.pdb
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.GuessTheWord.resources
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.exe
+C:\Folders\Info\C#\Proiecte personale\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.pdb

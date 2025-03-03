@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_5\Evenimente_Model_.Net\Evenimente_Model_.Net\bin\Debug\Evenimente_Model_.Net.exe.config
+C:\Folders\Info\C#\Capitolul_5\Evenimente_Model_.Net\Evenimente_Model_.Net\bin\Debug\Evenimente_Model_.Net.exe
+C:\Folders\Info\C#\Capitolul_5\Evenimente_Model_.Net\Evenimente_Model_.Net\bin\Debug\Evenimente_Model_.Net.pdb
+C:\Folders\Info\C#\Capitolul_5\Evenimente_Model_.Net\Evenimente_Model_.Net\obj\Debug\Evenimente_Model_.Net.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_5\Evenimente_Model_.Net\Evenimente_Model_.Net\obj\Debug\Evenimente_Model_.Net.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_5\Evenimente_Model_.Net\Evenimente_Model_.Net\obj\Debug\Evenimente_Model_.Net.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_5\Evenimente_Model_.Net\Evenimente_Model_.Net\obj\Debug\Evenimente_Model_.Net.exe
+C:\Folders\Info\C#\Capitolul_5\Evenimente_Model_.Net\Evenimente_Model_.Net\obj\Debug\Evenimente_Model_.Net.pdb

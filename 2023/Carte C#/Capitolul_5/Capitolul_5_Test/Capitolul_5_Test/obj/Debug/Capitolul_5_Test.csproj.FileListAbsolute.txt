@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_5\Capitolul_5_Test\Capitolul_5_Test\bin\Debug\Capitolul_5_Test.exe.config
+C:\Folders\Info\C#\Capitolul_5\Capitolul_5_Test\Capitolul_5_Test\bin\Debug\Capitolul_5_Test.exe
+C:\Folders\Info\C#\Capitolul_5\Capitolul_5_Test\Capitolul_5_Test\bin\Debug\Capitolul_5_Test.pdb
+C:\Folders\Info\C#\Capitolul_5\Capitolul_5_Test\Capitolul_5_Test\obj\Debug\Capitolul_5_Test.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_5\Capitolul_5_Test\Capitolul_5_Test\obj\Debug\Capitolul_5_Test.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_5\Capitolul_5_Test\Capitolul_5_Test\obj\Debug\Capitolul_5_Test.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_5\Capitolul_5_Test\Capitolul_5_Test\obj\Debug\Capitolul_5_Test.exe
+C:\Folders\Info\C#\Capitolul_5\Capitolul_5_Test\Capitolul_5_Test\obj\Debug\Capitolul_5_Test.pdb

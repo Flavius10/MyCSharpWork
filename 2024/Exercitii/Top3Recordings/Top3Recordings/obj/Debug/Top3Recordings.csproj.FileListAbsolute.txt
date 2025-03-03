@@ -1,0 +1,13 @@
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\bin\Debug\Inforamtii.mdf
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\bin\Debug\Inforamtii_log.ldf
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\bin\Debug\Top3Recordings.exe.config
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\bin\Debug\Top3Recordings.exe
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\bin\Debug\Top3Recordings.pdb
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\obj\Debug\Top3Recordings.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\obj\Debug\Top3Recordings.Properties.Resources.resources
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\obj\Debug\Top3Recordings.csproj.GenerateResource.cache
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\obj\Debug\Top3Recordings.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\obj\Debug\Top3Recordings.exe
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\obj\Debug\Top3Recordings.pdb
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\obj\Debug\Top3Recordings.FormaIntroducereDate.resources
+C:\Folders\Info\C#\2024\Exercitii\Top3Recordings\Top3Recordings\obj\Debug\Top3Recordings.MainPage.resources

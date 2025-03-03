@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\obj\Debug\TreeView.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\obj\Debug\TreeView.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\obj\Debug\TreeView.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\bin\Debug\TreeView.exe.config
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\bin\Debug\TreeView.exe
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\bin\Debug\TreeView.pdb
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\obj\Debug\TreeView.exe
+C:\Folders\Info\C#\Capitolul_7\TreeView\TreeView\obj\Debug\TreeView.pdb

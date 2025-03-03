@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\bin\Debug\Desenare.exe.config
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\bin\Debug\Desenare.exe
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\bin\Debug\Desenare.pdb
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\obj\Debug\Desenare.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\obj\Debug\Desenare.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\obj\Debug\Desenare.Desnenare.resources
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\obj\Debug\Desenare.Properties.Resources.resources
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\obj\Debug\Desenare.csproj.GenerateResource.cache
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\obj\Debug\Desenare.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\obj\Debug\Desenare.exe
+C:\Folders\Info\C#\C#_Olimpiada\Desenare\Desenare\obj\Debug\Desenare.pdb

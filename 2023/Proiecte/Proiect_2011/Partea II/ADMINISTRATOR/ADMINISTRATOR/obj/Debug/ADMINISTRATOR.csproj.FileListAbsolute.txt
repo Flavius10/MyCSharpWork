@@ -1,0 +1,15 @@
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\bin\Debug\Administrator.mdf
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\bin\Debug\Administrator_log.ldf
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\bin\Debug\ADMINISTRATOR.exe.config
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\bin\Debug\ADMINISTRATOR.exe
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\bin\Debug\ADMINISTRATOR.pdb
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.exe
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.pdb
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.Logare.resources
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.User.resources
+C:\Folders\Info\C#\Proiect_2011\Partea II\ADMINISTRATOR\ADMINISTRATOR\obj\Debug\ADMINISTRATOR.Admin.resources

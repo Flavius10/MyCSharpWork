@@ -1,0 +1,10 @@
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\bin\Debug\Proiect 2018 Citire.exe.config
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\bin\Debug\Proiect 2018 Citire.exe
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\bin\Debug\Proiect 2018 Citire.pdb
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\obj\Debug\Proiect 2018 Citire.csproj.AssemblyReference.cache
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\obj\Debug\Proiect_2018_Citire.Form1.resources
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\obj\Debug\Proiect_2018_Citire.Properties.Resources.resources
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\obj\Debug\Proiect 2018 Citire.csproj.GenerateResource.cache
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\obj\Debug\Proiect 2018 Citire.csproj.CoreCompileInputs.cache
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\obj\Debug\Proiect 2018 Citire.exe
+C:\Folders\Informatica\C#\Proiecte personale\Proiect 2018 Citire\Proiect 2018 Citire\obj\Debug\Proiect 2018 Citire.pdb

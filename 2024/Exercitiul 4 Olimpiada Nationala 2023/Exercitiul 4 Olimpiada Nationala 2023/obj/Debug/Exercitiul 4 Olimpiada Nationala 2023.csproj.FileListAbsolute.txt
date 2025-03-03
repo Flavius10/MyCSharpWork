@@ -1,0 +1,12 @@
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\bin\Debug\Exercitiul 4 Olimpiada Nationala 2023.exe.config
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\bin\Debug\Exercitiul 4 Olimpiada Nationala 2023.exe
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\bin\Debug\Exercitiul 4 Olimpiada Nationala 2023.pdb
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\obj\Debug\Exercitiul 4 Olimpiada Nationala 2023.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\obj\Debug\Exercitiul 4 Olimpiada Nationala 2023.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\obj\Debug\Exercitiul_4_Olimpiada_Nationala_2023.JocMemorie.resources
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\obj\Debug\Exercitiul_4_Olimpiada_Nationala_2023.Properties.Resources.resources
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\obj\Debug\Exercitiul 4 Olimpiada Nationala 2023.csproj.GenerateResource.cache
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\obj\Debug\Exercitiul 4 Olimpiada Nationala 2023.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\obj\Debug\Exercitiul 4 Olimpiada Nationala 2023.exe
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\obj\Debug\Exercitiul 4 Olimpiada Nationala 2023.pdb
+C:\Folders\Info\C#\2024\Exercitiul 4 Olimpiada Nationala 2023\Exercitiul 4 Olimpiada Nationala 2023\obj\Debug\Exercitiul_4_Olimpiada_Nationala_2023.Artificii.resources

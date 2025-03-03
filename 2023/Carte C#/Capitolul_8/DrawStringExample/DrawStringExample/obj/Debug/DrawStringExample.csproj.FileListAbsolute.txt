@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\bin\Debug\DrawStringExample.exe.config
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\bin\Debug\DrawStringExample.exe
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\bin\Debug\DrawStringExample.pdb
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\obj\Debug\DrawStringExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\obj\Debug\DrawStringExample.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\obj\Debug\DrawStringExample.Form1.resources
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\obj\Debug\DrawStringExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\obj\Debug\DrawStringExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\obj\Debug\DrawStringExample.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\obj\Debug\DrawStringExample.exe
+C:\Folders\Info\C#\Capitolul_8\DrawStringExample\DrawStringExample\obj\Debug\DrawStringExample.pdb

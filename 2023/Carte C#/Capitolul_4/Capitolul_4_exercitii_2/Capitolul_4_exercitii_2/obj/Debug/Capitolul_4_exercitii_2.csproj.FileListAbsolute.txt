@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_4\Capitolul_4_exercitii_2\Capitolul_4_exercitii_2\bin\Debug\Capitolul_4_exercitii_2.exe.config
+C:\Folders\Info\C#\Capitolul_4\Capitolul_4_exercitii_2\Capitolul_4_exercitii_2\bin\Debug\Capitolul_4_exercitii_2.exe
+C:\Folders\Info\C#\Capitolul_4\Capitolul_4_exercitii_2\Capitolul_4_exercitii_2\bin\Debug\Capitolul_4_exercitii_2.pdb
+C:\Folders\Info\C#\Capitolul_4\Capitolul_4_exercitii_2\Capitolul_4_exercitii_2\obj\Debug\Capitolul_4_exercitii_2.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_4\Capitolul_4_exercitii_2\Capitolul_4_exercitii_2\obj\Debug\Capitolul_4_exercitii_2.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_4\Capitolul_4_exercitii_2\Capitolul_4_exercitii_2\obj\Debug\Capitolul_4_exercitii_2.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_4\Capitolul_4_exercitii_2\Capitolul_4_exercitii_2\obj\Debug\Capitolul_4_exercitii_2.exe
+C:\Folders\Info\C#\Capitolul_4\Capitolul_4_exercitii_2\Capitolul_4_exercitii_2\obj\Debug\Capitolul_4_exercitii_2.pdb

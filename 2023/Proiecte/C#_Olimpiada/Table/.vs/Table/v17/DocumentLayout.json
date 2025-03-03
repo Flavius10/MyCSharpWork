@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\C#_Olimpiada\\Table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DBDEC3-4645-4BCC-AAA2-E2E08F30F445}|Table\\Table.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\C#_Olimpiada\\Table\\table\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04DBDEC3-4645-4BCC-AAA2-E2E08F30F445}|Table\\Table.csproj|solutionrelative:table\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DBDEC3-4645-4BCC-AAA2-E2E08F30F445}|Table\\Table.csproj|c:\\folders\\informatica\\c#\\2023\\proiecte\\c#_olimpiada\\table\\table\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DBDEC3-4645-4BCC-AAA2-E2E08F30F445}|Table\\Table.csproj|solutionrelative:table\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\C#_Olimpiada\\Table\\Table\\Table.cs",
+              "RelativeDocumentMoniker": "Table\\Table.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\C#_Olimpiada\\Table\\Table\\Table.cs",
+              "RelativeToolTip": "Table\\Table.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAASwEUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:08:27.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Table.cs [Design]",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\C#_Olimpiada\\Table\\Table\\Table.cs",
+              "RelativeDocumentMoniker": "Table\\Table.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\C#_Olimpiada\\Table\\Table\\Table.cs [Design]",
+              "RelativeToolTip": "Table\\Table.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:08:27.636Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

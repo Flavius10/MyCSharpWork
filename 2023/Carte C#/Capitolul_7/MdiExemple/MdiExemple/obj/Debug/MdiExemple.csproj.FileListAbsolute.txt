@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\bin\Debug\MdiExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\bin\Debug\MdiExemple.exe
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\bin\Debug\MdiExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\obj\Debug\MdiExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\obj\Debug\MdiExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\obj\Debug\MdiExemple.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\obj\Debug\MdiExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\obj\Debug\MdiExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\obj\Debug\MdiExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\obj\Debug\MdiExemple.exe
+C:\Folders\Info\C#\Capitolul_7\MdiExemple\MdiExemple\obj\Debug\MdiExemple.pdb

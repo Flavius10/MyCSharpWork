@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_5\Delegari_cu_tipuri_de_retur\Delegari_cu_tipuri_de_retur\bin\Debug\Delegari_cu_tipuri_de_retur.exe.config
+C:\Folders\Info\C#\Capitolul_5\Delegari_cu_tipuri_de_retur\Delegari_cu_tipuri_de_retur\bin\Debug\Delegari_cu_tipuri_de_retur.exe
+C:\Folders\Info\C#\Capitolul_5\Delegari_cu_tipuri_de_retur\Delegari_cu_tipuri_de_retur\bin\Debug\Delegari_cu_tipuri_de_retur.pdb
+C:\Folders\Info\C#\Capitolul_5\Delegari_cu_tipuri_de_retur\Delegari_cu_tipuri_de_retur\obj\Debug\Delegari_cu_tipuri_de_retur.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_5\Delegari_cu_tipuri_de_retur\Delegari_cu_tipuri_de_retur\obj\Debug\Delegari_cu_tipuri_de_retur.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_5\Delegari_cu_tipuri_de_retur\Delegari_cu_tipuri_de_retur\obj\Debug\Delegari_cu_tipuri_de_retur.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_5\Delegari_cu_tipuri_de_retur\Delegari_cu_tipuri_de_retur\obj\Debug\Delegari_cu_tipuri_de_retur.exe
+C:\Folders\Info\C#\Capitolul_5\Delegari_cu_tipuri_de_retur\Delegari_cu_tipuri_de_retur\obj\Debug\Delegari_cu_tipuri_de_retur.pdb

@@ -1,0 +1,16 @@
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\bin\Debug\WindowsMediaPlayerExample.exe.config
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\bin\Debug\WindowsMediaPlayerExample.exe
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\bin\Debug\WindowsMediaPlayerExample.pdb
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\bin\Debug\Interop.WMPLib.dll
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\bin\Debug\AxInterop.WMPLib.dll
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\WindowsMediaPlayerExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\WindowsMediaPlayerExample.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\Interop.WMPLib.dll
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\AxInterop.WMPLib.dll
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\WindowsMediaPlayerExample.csproj.ResolveComReference.cache
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\WindowsMediaPlayerExample.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\WindowsMediaPlayerExample.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\WindowsMediaPlayerExample.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\WindowsMediaPlayerExample.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\WindowsMediaPlayerExample.exe
+C:\Folders\Info\C#\Capitolul_7\WindowsMediaPlayerExample\WindowsMediaPlayerExample\obj\Debug\WindowsMediaPlayerExample.pdb

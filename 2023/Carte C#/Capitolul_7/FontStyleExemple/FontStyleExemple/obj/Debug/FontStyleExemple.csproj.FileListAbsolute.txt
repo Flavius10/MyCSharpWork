@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\bin\Debug\FontStyleExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\bin\Debug\FontStyleExemple.exe
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\bin\Debug\FontStyleExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\obj\Debug\FontStyleExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\obj\Debug\FontStyleExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\obj\Debug\FontStyleExemple.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\obj\Debug\FontStyleExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\obj\Debug\FontStyleExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\obj\Debug\FontStyleExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\obj\Debug\FontStyleExemple.exe
+C:\Folders\Info\C#\Capitolul_7\FontStyleExemple\FontStyleExemple\obj\Debug\FontStyleExemple.pdb

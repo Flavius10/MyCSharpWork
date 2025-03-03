@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitol2Test\Capitol2Test\bin\Debug\Capitol2Test.exe.config
+C:\Folders\Info\C#\Capitol2Test\Capitol2Test\bin\Debug\Capitol2Test.exe
+C:\Folders\Info\C#\Capitol2Test\Capitol2Test\bin\Debug\Capitol2Test.pdb
+C:\Folders\Info\C#\Capitol2Test\Capitol2Test\obj\Debug\Capitol2Test.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitol2Test\Capitol2Test\obj\Debug\Capitol2Test.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitol2Test\Capitol2Test\obj\Debug\Capitol2Test.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitol2Test\Capitol2Test\obj\Debug\Capitol2Test.exe
+C:\Folders\Info\C#\Capitol2Test\Capitol2Test\obj\Debug\Capitol2Test.pdb

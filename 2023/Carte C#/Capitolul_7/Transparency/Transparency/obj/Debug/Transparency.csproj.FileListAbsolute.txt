@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\bin\Debug\Transparency.exe.config
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\bin\Debug\Transparency.exe
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\bin\Debug\Transparency.pdb
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\obj\Debug\Transparency.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\obj\Debug\Transparency.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\obj\Debug\Transparency.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\obj\Debug\Transparency.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\obj\Debug\Transparency.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\obj\Debug\Transparency.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\obj\Debug\Transparency.exe
+C:\Folders\Info\C#\Capitolul_7\Transparency\Transparency\obj\Debug\Transparency.pdb

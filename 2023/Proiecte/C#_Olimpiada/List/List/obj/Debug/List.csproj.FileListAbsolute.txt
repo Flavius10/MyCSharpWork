@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\C#_Olimpiada\List\List\bin\Debug\List.exe.config
+C:\Folders\Info\C#\C#_Olimpiada\List\List\bin\Debug\List.exe
+C:\Folders\Info\C#\C#_Olimpiada\List\List\bin\Debug\List.pdb
+C:\Folders\Info\C#\C#_Olimpiada\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\C#_Olimpiada\List\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\C#_Olimpiada\List\List\obj\Debug\List.Form1.resources
+C:\Folders\Info\C#\C#_Olimpiada\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Folders\Info\C#\C#_Olimpiada\List\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Folders\Info\C#\C#_Olimpiada\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\C#_Olimpiada\List\List\obj\Debug\List.exe
+C:\Folders\Info\C#\C#_Olimpiada\List\List\obj\Debug\List.pdb

@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\bin\Debug\FormeGeometrice.exe.config
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\bin\Debug\FormeGeometrice.exe
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\bin\Debug\FormeGeometrice.pdb
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\obj\Debug\FormeGeometrice.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\obj\Debug\FormeGeometrice.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\obj\Debug\FormeGeometrice.Geometrie.resources
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\obj\Debug\FormeGeometrice.Properties.Resources.resources
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\obj\Debug\FormeGeometrice.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\obj\Debug\FormeGeometrice.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\obj\Debug\FormeGeometrice.exe
+C:\Folders\Info\C#\Nationala\FormeGeometrice\FormeGeometrice\obj\Debug\FormeGeometrice.pdb

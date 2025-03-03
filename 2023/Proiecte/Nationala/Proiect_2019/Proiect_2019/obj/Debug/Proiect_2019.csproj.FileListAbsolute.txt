@@ -1,0 +1,15 @@
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\bin\Debug\Biblioteca.mdf
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\bin\Debug\Biblioteca_log.ldf
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\bin\Debug\Proiect_2019.exe.config
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\bin\Debug\Proiect_2019.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\bin\Debug\Proiect_2019.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.StartBiblioteca.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.LogareBiblioteca.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect_2019\Proiect_2019\obj\Debug\Proiect_2019.BibliotecarBiblioteca.resources

@@ -1,0 +1,15 @@
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\bin\Debug\DBBursa.mdf
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\bin\Debug\DBBursa_log.ldf
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\bin\Debug\Bursa_Nume_Prenume.exe.config
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\bin\Debug\Bursa_Nume_Prenume.exe
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\bin\Debug\Bursa_Nume_Prenume.pdb
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.formPrincipalBusra.resources
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.exe
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.pdb
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.Actiunile_mele.resources
+C:\Folders\Info\C#\Proiect_2014\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.Grafic_profit.resources

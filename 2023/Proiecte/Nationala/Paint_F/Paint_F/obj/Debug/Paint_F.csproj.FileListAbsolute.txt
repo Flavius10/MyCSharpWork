@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\bin\Debug\Paint_F.exe.config
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\bin\Debug\Paint_F.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\bin\Debug\Paint_F.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\obj\Debug\Paint_F.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\obj\Debug\Paint_F.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\obj\Debug\Paint_F.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\obj\Debug\Paint_F.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\obj\Debug\Paint_F.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\obj\Debug\Paint_F.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\obj\Debug\Paint_F.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Paint_F\Paint_F\obj\Debug\Paint_F.Paint_F.resources

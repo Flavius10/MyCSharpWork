@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\bin\Debug\Space Battle Game.exe.config
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\bin\Debug\Space Battle Game.exe
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\bin\Debug\Space Battle Game.pdb
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\obj\Debug\Space_Battle_Game.SBG.resources
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\obj\Debug\Space_Battle_Game.Properties.Resources.resources
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.csproj.GenerateResource.cache
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.exe
+C:\Folders\Info\C#\2024\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.pdb

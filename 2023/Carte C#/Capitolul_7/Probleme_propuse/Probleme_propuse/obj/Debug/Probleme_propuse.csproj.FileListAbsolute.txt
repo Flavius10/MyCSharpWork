@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\bin\Debug\Probleme_propuse.exe.config
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\bin\Debug\Probleme_propuse.exe
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\bin\Debug\Probleme_propuse.pdb
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\obj\Debug\Probleme_propuse.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\obj\Debug\Probleme_propuse.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\obj\Debug\Probleme_propuse.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\obj\Debug\Probleme_propuse.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\obj\Debug\Probleme_propuse.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\obj\Debug\Probleme_propuse.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\obj\Debug\Probleme_propuse.exe
+C:\Folders\Info\C#\Capitolul_7\Probleme_propuse\Probleme_propuse\obj\Debug\Probleme_propuse.pdb

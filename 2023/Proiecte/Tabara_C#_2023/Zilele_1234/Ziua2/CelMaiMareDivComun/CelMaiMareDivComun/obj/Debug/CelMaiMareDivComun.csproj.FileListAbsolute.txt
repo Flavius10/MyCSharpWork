@@ -1,0 +1,11 @@
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\bin\Debug\CelMaiMareDivComun.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\bin\Debug\CelMaiMareDivComun.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\bin\Debug\CelMaiMareDivComun.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\obj\Debug\CelMaiMareDivComun.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\obj\Debug\CelMaiMareDivComun.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\obj\Debug\CelMaiMareDivComun.GcdForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\obj\Debug\CelMaiMareDivComun.Properties.Resources.resources
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\obj\Debug\CelMaiMareDivComun.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\obj\Debug\CelMaiMareDivComun.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\obj\Debug\CelMaiMareDivComun.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\CelMaiMareDivComun\CelMaiMareDivComun\obj\Debug\CelMaiMareDivComun.pdb

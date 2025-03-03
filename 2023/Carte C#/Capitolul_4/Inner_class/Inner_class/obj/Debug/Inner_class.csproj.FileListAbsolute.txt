@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_4\Inner_class\Inner_class\bin\Debug\Inner_class.exe.config
+C:\Folders\Info\C#\Capitolul_4\Inner_class\Inner_class\bin\Debug\Inner_class.exe
+C:\Folders\Info\C#\Capitolul_4\Inner_class\Inner_class\bin\Debug\Inner_class.pdb
+C:\Folders\Info\C#\Capitolul_4\Inner_class\Inner_class\obj\Debug\Inner_class.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_4\Inner_class\Inner_class\obj\Debug\Inner_class.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_4\Inner_class\Inner_class\obj\Debug\Inner_class.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_4\Inner_class\Inner_class\obj\Debug\Inner_class.exe
+C:\Folders\Info\C#\Capitolul_4\Inner_class\Inner_class\obj\Debug\Inner_class.pdb

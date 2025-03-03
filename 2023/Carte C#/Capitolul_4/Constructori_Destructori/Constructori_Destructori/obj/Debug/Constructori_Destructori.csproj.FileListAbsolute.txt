@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_4\Constructori_Destructori\Constructori_Destructori\bin\Debug\Constructori_Destructori.exe.config
+C:\Folders\Info\C#\Capitolul_4\Constructori_Destructori\Constructori_Destructori\bin\Debug\Constructori_Destructori.exe
+C:\Folders\Info\C#\Capitolul_4\Constructori_Destructori\Constructori_Destructori\bin\Debug\Constructori_Destructori.pdb
+C:\Folders\Info\C#\Capitolul_4\Constructori_Destructori\Constructori_Destructori\obj\Debug\Constructori_Destructori.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_4\Constructori_Destructori\Constructori_Destructori\obj\Debug\Constructori_Destructori.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_4\Constructori_Destructori\Constructori_Destructori\obj\Debug\Constructori_Destructori.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_4\Constructori_Destructori\Constructori_Destructori\obj\Debug\Constructori_Destructori.exe
+C:\Folders\Info\C#\Capitolul_4\Constructori_Destructori\Constructori_Destructori\obj\Debug\Constructori_Destructori.pdb

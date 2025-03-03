@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\bin\Debug\XMLDataBase.exe.config
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\bin\Debug\XMLDataBase.exe
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\bin\Debug\XMLDataBase.pdb
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\obj\Debug\XMLDataBase.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\obj\Debug\XMLDataBase.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\obj\Debug\XMLDataBase.FomrXML.resources
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\obj\Debug\XMLDataBase.Properties.Resources.resources
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\obj\Debug\XMLDataBase.csproj.GenerateResource.cache
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\obj\Debug\XMLDataBase.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\obj\Debug\XMLDataBase.exe
+C:\Folders\Info\C#\2024\XMLDataBase\XMLDataBase\obj\Debug\XMLDataBase.pdb

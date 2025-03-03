@@ -1,0 +1,13 @@
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\bin\Debug\Pictures.exe.config
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\bin\Debug\Pictures.exe
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\bin\Debug\Pictures.pdb
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures._9_elemente.resources
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures.PUZZLE.resources
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures.Properties.Resources.resources
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures._4_elemente.resources
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures.exe
+C:\Folders\Info\C#\Nationala\Pictures\Pictures\obj\Debug\Pictures.pdb

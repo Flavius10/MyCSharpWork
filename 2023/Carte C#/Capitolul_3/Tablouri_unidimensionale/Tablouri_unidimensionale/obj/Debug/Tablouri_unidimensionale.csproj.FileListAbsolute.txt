@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Tablouri_unidimensionale\Tablouri_unidimensionale\bin\Debug\Tablouri_unidimensionale.exe.config
+C:\Folders\Info\C#\Tablouri_unidimensionale\Tablouri_unidimensionale\bin\Debug\Tablouri_unidimensionale.exe
+C:\Folders\Info\C#\Tablouri_unidimensionale\Tablouri_unidimensionale\bin\Debug\Tablouri_unidimensionale.pdb
+C:\Folders\Info\C#\Tablouri_unidimensionale\Tablouri_unidimensionale\obj\Debug\Tablouri_unidimensionale.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Tablouri_unidimensionale\Tablouri_unidimensionale\obj\Debug\Tablouri_unidimensionale.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Tablouri_unidimensionale\Tablouri_unidimensionale\obj\Debug\Tablouri_unidimensionale.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Tablouri_unidimensionale\Tablouri_unidimensionale\obj\Debug\Tablouri_unidimensionale.exe
+C:\Folders\Info\C#\Tablouri_unidimensionale\Tablouri_unidimensionale\obj\Debug\Tablouri_unidimensionale.pdb

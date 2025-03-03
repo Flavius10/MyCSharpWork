@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\bin\Debug\ORAR.exe.config
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\bin\Debug\ORAR.exe
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\bin\Debug\ORAR.pdb
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\obj\Debug\ORAR.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\obj\Debug\ORAR.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\obj\Debug\ORAR.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\obj\Debug\ORAR.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\obj\Debug\ORAR.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\obj\Debug\ORAR.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\obj\Debug\ORAR.exe
+C:\Folders\Info\C#\Capitolul_7\ORAR\ORAR\obj\Debug\ORAR.pdb

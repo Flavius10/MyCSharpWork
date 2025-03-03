@@ -1,0 +1,12 @@
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\bin\Debug\Magazie.mdf
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\bin\Debug\Magazie_log.ldf
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\bin\Debug\Atestat.exe.config
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\bin\Debug\Atestat.exe
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\bin\Debug\Atestat.pdb
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\obj\Debug\Atestat.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\obj\Debug\Atestat.Subiectul20.resources
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\obj\Debug\Atestat.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\obj\Debug\Atestat.exe
+C:\Folders\Info\C#\Proiecte personale\Atestat\Atestat\obj\Debug\Atestat.pdb

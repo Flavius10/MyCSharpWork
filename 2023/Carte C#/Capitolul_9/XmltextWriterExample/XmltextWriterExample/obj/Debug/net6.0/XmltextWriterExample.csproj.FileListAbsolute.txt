@@ -1,0 +1,5 @@
+C:\Folders\Info\C#\Capitolul_9\XmltextWriterExample\XmltextWriterExample\obj\Debug\net6.0\XmltextWriterExample.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_9\XmltextWriterExample\XmltextWriterExample\obj\Debug\net6.0\XmltextWriterExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Folders\Info\C#\Capitolul_9\XmltextWriterExample\XmltextWriterExample\obj\Debug\net6.0\XmltextWriterExample.AssemblyInfoInputs.cache
+C:\Folders\Info\C#\Capitolul_9\XmltextWriterExample\XmltextWriterExample\obj\Debug\net6.0\XmltextWriterExample.AssemblyInfo.cs
+C:\Folders\Info\C#\Capitolul_9\XmltextWriterExample\XmltextWriterExample\obj\Debug\net6.0\XmltextWriterExample.csproj.CoreCompileInputs.cache

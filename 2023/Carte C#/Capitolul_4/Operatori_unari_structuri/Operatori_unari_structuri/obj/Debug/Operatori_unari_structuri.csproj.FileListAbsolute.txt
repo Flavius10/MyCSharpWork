@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_4\Operatori_unari_structuri\Operatori_unari_structuri\bin\Debug\Operatori_unari_structuri.exe.config
+C:\Folders\Info\C#\Capitolul_4\Operatori_unari_structuri\Operatori_unari_structuri\bin\Debug\Operatori_unari_structuri.exe
+C:\Folders\Info\C#\Capitolul_4\Operatori_unari_structuri\Operatori_unari_structuri\bin\Debug\Operatori_unari_structuri.pdb
+C:\Folders\Info\C#\Capitolul_4\Operatori_unari_structuri\Operatori_unari_structuri\obj\Debug\Operatori_unari_structuri.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_4\Operatori_unari_structuri\Operatori_unari_structuri\obj\Debug\Operatori_unari_structuri.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_4\Operatori_unari_structuri\Operatori_unari_structuri\obj\Debug\Operatori_unari_structuri.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_4\Operatori_unari_structuri\Operatori_unari_structuri\obj\Debug\Operatori_unari_structuri.exe
+C:\Folders\Info\C#\Capitolul_4\Operatori_unari_structuri\Operatori_unari_structuri\obj\Debug\Operatori_unari_structuri.pdb

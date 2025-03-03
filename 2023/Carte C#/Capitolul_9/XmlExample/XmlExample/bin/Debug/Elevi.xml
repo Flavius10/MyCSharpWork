@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<absolventi>
+	<elev>
+		<nume>Ardelean Eugen</nume>
+		<scoala>C.N. Liviu Rebreanu</scoala>
+		<clasa>a XII-a A</clasa>
+		<profil>matematica-informatica</profil>
+	</elev>
+
+	<elev>
+		<nume>Costea Andrei</nume>
+		<scoala>C.N. Liviu Rebreanu</scoala>
+		<clasa>a IX-a C</clasa>
+		<profil>stintele naturii</profil>
+	</elev>
+
+	<elev>
+		<nume>Nicoara Alina</nume>
+		<scoala>C.N. Liviu Rebreanu</scoala>
+		<clasa>a XI-a B</clasa>
+		<profil>telecomunicatii</profil>
+	</elev>
+
+</absolventi>
+

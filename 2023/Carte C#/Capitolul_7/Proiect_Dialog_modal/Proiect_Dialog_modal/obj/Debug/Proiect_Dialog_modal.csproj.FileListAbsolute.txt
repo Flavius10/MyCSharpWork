@@ -1,0 +1,12 @@
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\bin\Debug\Proiect_Dialog_modal.exe.config
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\bin\Debug\Proiect_Dialog_modal.exe
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\bin\Debug\Proiect_Dialog_modal.pdb
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\obj\Debug\Proiect_Dialog_modal.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\obj\Debug\Proiect_Dialog_modal.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\obj\Debug\Proiect_Dialog_modal.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\obj\Debug\Proiect_Dialog_modal.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\obj\Debug\Proiect_Dialog_modal.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\obj\Debug\Proiect_Dialog_modal.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\obj\Debug\Proiect_Dialog_modal.exe
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\obj\Debug\Proiect_Dialog_modal.pdb
+C:\Folders\Info\C#\Capitolul_7\Proiect_Dialog_modal\Proiect_Dialog_modal\obj\Debug\Proiect_Dialog_modal.Form2.resources

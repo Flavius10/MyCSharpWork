@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\bin\Debug\Background_Maker.exe.config
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\bin\Debug\Background_Maker.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\bin\Debug\Background_Maker.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\obj\Debug\Background_Maker.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\obj\Debug\Background_Maker.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\obj\Debug\Background_Maker.Background_Maker.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\obj\Debug\Background_Maker.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\obj\Debug\Background_Maker.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\obj\Debug\Background_Maker.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\obj\Debug\Background_Maker.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Background_Maker\Background_Maker\obj\Debug\Background_Maker.pdb

@@ -1,0 +1,13 @@
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\bin\Debug\Cifre ordonate.exe.config
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\bin\Debug\Cifre ordonate.exe
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\bin\Debug\Cifre ordonate.pdb
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre ordonate.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre ordonate.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre_ordonate.Corect.resources
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre_ordonate.Gresit.resources
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre_ordonate.Verifica.resources
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre_ordonate.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre ordonate.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre ordonate.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre ordonate.exe
+C:\Folders\Info\C#\Proiecte personale\Cifre ordonate\Cifre ordonate\obj\Debug\Cifre ordonate.pdb

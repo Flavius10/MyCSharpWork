@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_5\Clasa generica Stack\Clasa generica Stack\bin\Debug\Clasa generica Stack.exe.config
+C:\Folders\Info\C#\Capitolul_5\Clasa generica Stack\Clasa generica Stack\bin\Debug\Clasa generica Stack.exe
+C:\Folders\Info\C#\Capitolul_5\Clasa generica Stack\Clasa generica Stack\bin\Debug\Clasa generica Stack.pdb
+C:\Folders\Info\C#\Capitolul_5\Clasa generica Stack\Clasa generica Stack\obj\Debug\Clasa generica Stack.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_5\Clasa generica Stack\Clasa generica Stack\obj\Debug\Clasa generica Stack.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_5\Clasa generica Stack\Clasa generica Stack\obj\Debug\Clasa generica Stack.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_5\Clasa generica Stack\Clasa generica Stack\obj\Debug\Clasa generica Stack.exe
+C:\Folders\Info\C#\Capitolul_5\Clasa generica Stack\Clasa generica Stack\obj\Debug\Clasa generica Stack.pdb

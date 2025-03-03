@@ -1,0 +1,14 @@
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\bin\Debug\Utilizator.mdf
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\bin\Debug\Utilizator_log.ldf
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\obj\Debug\Proiect.Logare.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Proiect\Proiect\obj\Debug\Proiect.Bitmap_Form.resources

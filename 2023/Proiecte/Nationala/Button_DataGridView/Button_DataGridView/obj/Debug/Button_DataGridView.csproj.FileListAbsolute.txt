@@ -1,0 +1,14 @@
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\bin\Debug\BazaDate.mdf
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\bin\Debug\BazaDate_log.ldf
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\bin\Debug\Button_DataGridView.exe.config
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\bin\Debug\Button_DataGridView.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\bin\Debug\Button_DataGridView.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\obj\Debug\Button_DataGridView.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\obj\Debug\Button_DataGridView.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\obj\Debug\Button_DataGridView.Form1.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\obj\Debug\Button_DataGridView.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\obj\Debug\Button_DataGridView.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\obj\Debug\Button_DataGridView.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\obj\Debug\Button_DataGridView.exe
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\obj\Debug\Button_DataGridView.pdb
+C:\Folders\Info\C#\Proiecte\Nationala\Button_DataGridView\Button_DataGridView\obj\Debug\Button_DataGridView.Gradient.resources

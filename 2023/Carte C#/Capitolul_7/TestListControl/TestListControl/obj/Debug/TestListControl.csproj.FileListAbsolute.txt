@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\bin\Debug\TestListControl.exe.config
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\bin\Debug\TestListControl.exe
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\bin\Debug\TestListControl.pdb
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\obj\Debug\TestListControl.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\obj\Debug\TestListControl.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\obj\Debug\TestListControl.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\obj\Debug\TestListControl.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\obj\Debug\TestListControl.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\obj\Debug\TestListControl.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\obj\Debug\TestListControl.exe
+C:\Folders\Info\C#\Capitolul_7\TestListControl\TestListControl\obj\Debug\TestListControl.pdb

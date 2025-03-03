@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_4\Proprietati\Proprietati\bin\Debug\Proprietati.exe.config
+C:\Folders\Info\C#\Capitolul_4\Proprietati\Proprietati\bin\Debug\Proprietati.exe
+C:\Folders\Info\C#\Capitolul_4\Proprietati\Proprietati\bin\Debug\Proprietati.pdb
+C:\Folders\Info\C#\Capitolul_4\Proprietati\Proprietati\obj\Debug\Proprietati.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_4\Proprietati\Proprietati\obj\Debug\Proprietati.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_4\Proprietati\Proprietati\obj\Debug\Proprietati.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_4\Proprietati\Proprietati\obj\Debug\Proprietati.exe
+C:\Folders\Info\C#\Capitolul_4\Proprietati\Proprietati\obj\Debug\Proprietati.pdb

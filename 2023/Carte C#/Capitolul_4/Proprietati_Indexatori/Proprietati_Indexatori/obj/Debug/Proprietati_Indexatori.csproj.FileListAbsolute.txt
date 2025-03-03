@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_4\Proprietati_Indexatori\Proprietati_Indexatori\obj\Debug\Proprietati_Indexatori.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_4\Proprietati_Indexatori\Proprietati_Indexatori\obj\Debug\Proprietati_Indexatori.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_4\Proprietati_Indexatori\Proprietati_Indexatori\obj\Debug\Proprietati_Indexatori.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_4\Proprietati_Indexatori\Proprietati_Indexatori\bin\Debug\Proprietati_Indexatori.exe.config
+C:\Folders\Info\C#\Capitolul_4\Proprietati_Indexatori\Proprietati_Indexatori\bin\Debug\Proprietati_Indexatori.exe
+C:\Folders\Info\C#\Capitolul_4\Proprietati_Indexatori\Proprietati_Indexatori\bin\Debug\Proprietati_Indexatori.pdb
+C:\Folders\Info\C#\Capitolul_4\Proprietati_Indexatori\Proprietati_Indexatori\obj\Debug\Proprietati_Indexatori.exe
+C:\Folders\Info\C#\Capitolul_4\Proprietati_Indexatori\Proprietati_Indexatori\obj\Debug\Proprietati_Indexatori.pdb

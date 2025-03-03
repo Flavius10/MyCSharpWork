@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375C5ECC-E390-4830-AD15-29319671A0B5}|Proiect_2019\\Proiect_2019.csproj|c:\\folders\\informatica\\c#\\2023\\proiecte\\nationala\\proiect_2019\\proiect_2019\\bibliotecarbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375C5ECC-E390-4830-AD15-29319671A0B5}|Proiect_2019\\Proiect_2019.csproj|solutionrelative:proiect_2019\\bibliotecarbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375C5ECC-E390-4830-AD15-29319671A0B5}|Proiect_2019\\Proiect_2019.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\proiect_2019\\logarebiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375C5ECC-E390-4830-AD15-29319671A0B5}|Proiect_2019\\Proiect_2019.csproj|solutionrelative:proiect_2019\\logarebiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375C5ECC-E390-4830-AD15-29319671A0B5}|Proiect_2019\\Proiect_2019.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\proiect_2019\\aplicatiebiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375C5ECC-E390-4830-AD15-29319671A0B5}|Proiect_2019\\Proiect_2019.csproj|solutionrelative:proiect_2019\\aplicatiebiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375C5ECC-E390-4830-AD15-29319671A0B5}|Proiect_2019\\Proiect_2019.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\proiect_2019\\bibliotecarbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{375C5ECC-E390-4830-AD15-29319671A0B5}|Proiect_2019\\Proiect_2019.csproj|solutionrelative:proiect_2019\\bibliotecarbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicatieBiblioteca.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\Proiect_2019\\AplicatieBiblioteca.cs",
+              "RelativeDocumentMoniker": "Proiect_2019\\AplicatieBiblioteca.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\Proiect_2019\\AplicatieBiblioteca.cs",
+              "RelativeToolTip": "Proiect_2019\\AplicatieBiblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T17:17:24.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BibliotecarBiblioteca.cs [Design]",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\Proiect_2019\\BibliotecarBiblioteca.cs",
+              "RelativeDocumentMoniker": "Proiect_2019\\BibliotecarBiblioteca.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\Proiect_2019\\BibliotecarBiblioteca.cs [Design]",
+              "RelativeToolTip": "Proiect_2019\\BibliotecarBiblioteca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:17:24.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecarBiblioteca.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\Proiect_2019\\BibliotecarBiblioteca.cs",
+              "RelativeDocumentMoniker": "Proiect_2019\\BibliotecarBiblioteca.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\Proiect_2019\\BibliotecarBiblioteca.cs",
+              "RelativeToolTip": "Proiect_2019\\BibliotecarBiblioteca.cs",
+              "ViewState": "AQIAAMQBAAAAAAAAAAAAAC0BAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:17:24.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogareBiblioteca.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\Proiect_2019\\LogareBiblioteca.cs",
+              "RelativeDocumentMoniker": "Proiect_2019\\LogareBiblioteca.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Nationala\\Proiect_2019\\Proiect_2019\\LogareBiblioteca.cs",
+              "RelativeToolTip": "Proiect_2019\\LogareBiblioteca.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T17:17:24.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

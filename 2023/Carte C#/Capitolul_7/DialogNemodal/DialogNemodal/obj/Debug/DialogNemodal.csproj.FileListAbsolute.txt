@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_7\DialogNemodal\DialogNemodal\bin\Debug\DialogNemodal.exe.config
+C:\Folders\Info\C#\Capitolul_7\DialogNemodal\DialogNemodal\bin\Debug\DialogNemodal.exe
+C:\Folders\Info\C#\Capitolul_7\DialogNemodal\DialogNemodal\bin\Debug\DialogNemodal.pdb
+C:\Folders\Info\C#\Capitolul_7\DialogNemodal\DialogNemodal\obj\Debug\DialogNemodal.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\DialogNemodal\DialogNemodal\obj\Debug\DialogNemodal.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\DialogNemodal\DialogNemodal\obj\Debug\DialogNemodal.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\DialogNemodal\DialogNemodal\obj\Debug\DialogNemodal.exe
+C:\Folders\Info\C#\Capitolul_7\DialogNemodal\DialogNemodal\obj\Debug\DialogNemodal.pdb

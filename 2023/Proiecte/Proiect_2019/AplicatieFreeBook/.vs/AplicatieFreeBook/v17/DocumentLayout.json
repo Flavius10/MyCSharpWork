@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|c:\\folders\\informatica\\c#\\2023\\proiecte\\proiect_2019\\aplicatiefreebook\\aplicatiefreebook\\creeazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|solutionrelative:aplicatiefreebook\\creeazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\aplicatiefreebook\\afiseazacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|solutionrelative:aplicatiefreebook\\afiseazacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\aplicatiefreebook\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|solutionrelative:aplicatiefreebook\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\aplicatiefreebook\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|solutionrelative:aplicatiefreebook\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|c:\\folders\\informatica\\c#\\2023\\proiecte\\proiect_2019\\aplicatiefreebook\\aplicatiefreebook\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|solutionrelative:aplicatiefreebook\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\aplicatiefreebook\\afiseazacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B02FA035-29AB-4407-A248-568D841C6C82}|AplicatieFreeBook\\AplicatieFreeBook.csproj|solutionrelative:aplicatiefreebook\\afiseazacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreeazaContFreeBook.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\CreeazaContFreeBook.cs",
+              "RelativeDocumentMoniker": "AplicatieFreeBook\\CreeazaContFreeBook.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\CreeazaContFreeBook.cs",
+              "RelativeToolTip": "AplicatieFreeBook\\CreeazaContFreeBook.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:15:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FreeBookHome.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\FreeBookHome.cs",
+              "RelativeDocumentMoniker": "AplicatieFreeBook\\FreeBookHome.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\FreeBookHome.cs",
+              "RelativeToolTip": "AplicatieFreeBook\\FreeBookHome.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAmwG8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:19:25.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogareFreeBook.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\LogareFreeBook.cs",
+              "RelativeDocumentMoniker": "AplicatieFreeBook\\LogareFreeBook.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\LogareFreeBook.cs",
+              "RelativeToolTip": "AplicatieFreeBook\\LogareFreeBook.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:19:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogareFreeBook.cs [Design]",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\LogareFreeBook.cs",
+              "RelativeDocumentMoniker": "AplicatieFreeBook\\LogareFreeBook.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\LogareFreeBook.cs [Design]",
+              "RelativeToolTip": "AplicatieFreeBook\\LogareFreeBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:19:12.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AfiseazaCarte.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\AfiseazaCarte.cs",
+              "RelativeDocumentMoniker": "AplicatieFreeBook\\AfiseazaCarte.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\AfiseazaCarte.cs",
+              "RelativeToolTip": "AplicatieFreeBook\\AfiseazaCarte.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:18:57.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AfiseazaCarte.cs [Design]",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\AfiseazaCarte.cs",
+              "RelativeDocumentMoniker": "AplicatieFreeBook\\AfiseazaCarte.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\2023\\Proiecte\\Proiect_2019\\AplicatieFreeBook\\AplicatieFreeBook\\AfiseazaCarte.cs [Design]",
+              "RelativeToolTip": "AplicatieFreeBook\\AfiseazaCarte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:18:51.399Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

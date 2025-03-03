@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_7\DialogModal\DialogModal\obj\Debug\DialogModal.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\DialogModal\DialogModal\obj\Debug\DialogModal.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\DialogModal\DialogModal\obj\Debug\DialogModal.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\DialogModal\DialogModal\bin\Debug\DialogModal.exe.config
+C:\Folders\Info\C#\Capitolul_7\DialogModal\DialogModal\bin\Debug\DialogModal.exe
+C:\Folders\Info\C#\Capitolul_7\DialogModal\DialogModal\bin\Debug\DialogModal.pdb
+C:\Folders\Info\C#\Capitolul_7\DialogModal\DialogModal\obj\Debug\DialogModal.exe
+C:\Folders\Info\C#\Capitolul_7\DialogModal\DialogModal\obj\Debug\DialogModal.pdb

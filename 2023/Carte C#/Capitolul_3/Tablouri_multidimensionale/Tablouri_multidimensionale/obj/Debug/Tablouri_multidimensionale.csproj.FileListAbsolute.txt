@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Tablouri_multidimensionale\Tablouri_multidimensionale\bin\Debug\Tablouri_multidimensionale.exe.config
+C:\Folders\Info\C#\Tablouri_multidimensionale\Tablouri_multidimensionale\bin\Debug\Tablouri_multidimensionale.exe
+C:\Folders\Info\C#\Tablouri_multidimensionale\Tablouri_multidimensionale\bin\Debug\Tablouri_multidimensionale.pdb
+C:\Folders\Info\C#\Tablouri_multidimensionale\Tablouri_multidimensionale\obj\Debug\Tablouri_multidimensionale.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Tablouri_multidimensionale\Tablouri_multidimensionale\obj\Debug\Tablouri_multidimensionale.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Tablouri_multidimensionale\Tablouri_multidimensionale\obj\Debug\Tablouri_multidimensionale.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Tablouri_multidimensionale\Tablouri_multidimensionale\obj\Debug\Tablouri_multidimensionale.exe
+C:\Folders\Info\C#\Tablouri_multidimensionale\Tablouri_multidimensionale\obj\Debug\Tablouri_multidimensionale.pdb

@@ -1,0 +1,17 @@
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\FreeBook.mdf
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\FreeBook_log.ldf
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe.config
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.pdb
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.exe
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.pdb
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.FreeBookHome.resources
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.CreeazaContFreeBook.resources
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.LogareFreeBook.resources
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.MeniuFreeBook.resources
+C:\Folders\Info\C#\Proiect_2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.AfiseazaCarte.resources

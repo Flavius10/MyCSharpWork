@@ -1,0 +1,15 @@
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.Logare.resources
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\bin\Debug\Login.exe.config
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\bin\Debug\Login.exe
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\bin\Debug\Login.pdb
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.exe
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.pdb
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.Iesire.resources
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\bin\Debug\Utilizatori.mdf
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\bin\Debug\Utilizatori_log.ldf
+C:\Folders\Info\C#\C#_Olimpiada\Login\Login\obj\Debug\Login.FormIesire.resources

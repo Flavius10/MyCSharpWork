@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\bin\Debug\TextBoxExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\bin\Debug\TextBoxExemple.exe
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\bin\Debug\TextBoxExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\obj\Debug\TextBoxExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\obj\Debug\TextBoxExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\obj\Debug\TextBoxExemple.TextBoxEx.resources
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\obj\Debug\TextBoxExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\obj\Debug\TextBoxExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\obj\Debug\TextBoxExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\obj\Debug\TextBoxExemple.exe
+C:\Folders\Info\C#\Capitolul_7\TextBoxExemple\TextBoxExemple\obj\Debug\TextBoxExemple.pdb

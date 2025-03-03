@@ -1,0 +1,8 @@
+C:\Folders\Info\C#\Capitolul_3\Capitolul_3_Exercitii\Capitolul_3_Exercitii\bin\Debug\Capitolul_3_Exercitii.exe.config
+C:\Folders\Info\C#\Capitolul_3\Capitolul_3_Exercitii\Capitolul_3_Exercitii\bin\Debug\Capitolul_3_Exercitii.exe
+C:\Folders\Info\C#\Capitolul_3\Capitolul_3_Exercitii\Capitolul_3_Exercitii\bin\Debug\Capitolul_3_Exercitii.pdb
+C:\Folders\Info\C#\Capitolul_3\Capitolul_3_Exercitii\Capitolul_3_Exercitii\obj\Debug\Capitolul_3_Exercitii.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_3\Capitolul_3_Exercitii\Capitolul_3_Exercitii\obj\Debug\Capitolul_3_Exercitii.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_3\Capitolul_3_Exercitii\Capitolul_3_Exercitii\obj\Debug\Capitolul_3_Exercitii.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_3\Capitolul_3_Exercitii\Capitolul_3_Exercitii\obj\Debug\Capitolul_3_Exercitii.exe
+C:\Folders\Info\C#\Capitolul_3\Capitolul_3_Exercitii\Capitolul_3_Exercitii\obj\Debug\Capitolul_3_Exercitii.pdb

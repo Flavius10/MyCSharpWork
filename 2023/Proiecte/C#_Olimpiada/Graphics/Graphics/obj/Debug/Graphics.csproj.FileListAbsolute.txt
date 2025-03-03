@@ -1,0 +1,6 @@
+C:\Folders\Info\C#\C#_Olimpiada\Graphics\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\C#_Olimpiada\Graphics\Graphics\obj\Debug\Graphics.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\C#_Olimpiada\Graphics\Graphics\obj\Debug\Graphics.Graphics.resources
+C:\Folders\Info\C#\C#_Olimpiada\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Folders\Info\C#\C#_Olimpiada\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+C:\Folders\Info\C#\C#_Olimpiada\Graphics\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache

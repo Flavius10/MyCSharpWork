@@ -1,0 +1,14 @@
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\obj\Debug\Baze_de_date_programatic.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\obj\Debug\Baze_de_date_programatic.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\obj\Debug\Baze_de_date_programatic.Form1.resources
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\obj\Debug\Baze_de_date_programatic.Properties.Resources.resources
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\obj\Debug\Baze_de_date_programatic.csproj.GenerateResource.cache
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\obj\Debug\Baze_de_date_programatic.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\bin\Debug\Angajati.mdf
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\bin\Debug\Angajati_log.ldf
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\bin\Debug\Baze_de_date_programatic.exe.config
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\bin\Debug\Baze_de_date_programatic.exe
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\bin\Debug\Baze_de_date_programatic.pdb
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\obj\Debug\Baze_de_date_programatic.exe
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\obj\Debug\Baze_de_date_programatic.pdb
+C:\Folders\Info\C#\C#_Olimpiada\Baze_de_date_programatic\Baze_de_date_programatic\obj\Debug\Baze_de_date_programatic.UpdateForm.resources

@@ -1,0 +1,2 @@
+https://learn.microsoft.com/en-us/dotnet/desktop/winforms/advanced/?view=netframeworkdesktop-4.8
+https://learn.microsoft.com/en-us/dotnet/desktop/winforms/advanced/getting-started-with-graphics-programming?view=netframeworkdesktop-4.8

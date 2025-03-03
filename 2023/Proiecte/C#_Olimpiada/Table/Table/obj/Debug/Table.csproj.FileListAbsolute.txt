@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\bin\Debug\Table.exe.config
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\bin\Debug\Table.exe
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\bin\Debug\Table.pdb
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\obj\Debug\Table.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\obj\Debug\Table.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\obj\Debug\Table.Table.resources
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\obj\Debug\Table.Properties.Resources.resources
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\obj\Debug\Table.csproj.GenerateResource.cache
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\obj\Debug\Table.exe
+C:\Folders\Info\C#\C#_Olimpiada\Table\Table\obj\Debug\Table.pdb

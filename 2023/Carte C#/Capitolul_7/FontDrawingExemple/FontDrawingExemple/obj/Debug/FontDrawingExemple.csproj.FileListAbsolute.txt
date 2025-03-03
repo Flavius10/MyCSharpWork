@@ -1,0 +1,11 @@
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\bin\Debug\FontDrawingExemple.exe.config
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\bin\Debug\FontDrawingExemple.exe
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\bin\Debug\FontDrawingExemple.pdb
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\obj\Debug\FontDrawingExemple.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\obj\Debug\FontDrawingExemple.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\obj\Debug\FontDrawingExemple.Form1.resources
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\obj\Debug\FontDrawingExemple.Properties.Resources.resources
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\obj\Debug\FontDrawingExemple.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\obj\Debug\FontDrawingExemple.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\obj\Debug\FontDrawingExemple.exe
+C:\Folders\Info\C#\Capitolul_7\FontDrawingExemple\FontDrawingExemple\obj\Debug\FontDrawingExemple.pdb

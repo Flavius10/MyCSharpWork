@@ -1,0 +1,15 @@
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.SuggestedBindingRedirects.cache
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmAutentificare.resources
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.Properties.Resources.resources
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB.mdf
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB_log.ldf
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe.config
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.pdb
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.exe
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.pdb
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmVacanta.resources
+C:\Folders\Info\C#\Proiect_nationala_2017\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmInregistrare.resources
